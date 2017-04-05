@@ -1,3 +1,5 @@
+# WIP
+
 def begin_of_word(word, rule):
     n = rule['symbol count']
     normalized_word = word
@@ -63,4 +65,3 @@ def any_place(word, rule):
         i, j = i+1, j+1
     return(normalized_word)
 
-# write function that applies all rules in order of 'text', 'symbol count', 'placement' to each word
