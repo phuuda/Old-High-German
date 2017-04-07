@@ -1,9 +1,9 @@
 # WIP
 
-def begin_of_word(word, rule):
+def begin_of_word(word, rule):      # consider case sensitivity?
     n = rule['symbol count']
     normalized_word = word
-    if normalized_word[:n] == rule['initial']: # consider case sensitivity?
+    if normalized_word[:n] == rule['initial']:
         normalized_word = normalized_word.replace(normalized_word[:n], rule['final'])
 
     return(normalized_word)
