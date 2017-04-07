@@ -23,6 +23,7 @@ def after_something(word, rule):
 
     if 'после гл.' in rule['placement']:
         letters = vowels
+        
     if 'после согл.' in rule['placement']:
         letters = consonants
 
@@ -30,7 +31,13 @@ def after_something(word, rule):
         for c in letters:
             if normalized_word[k] == c:
                 if normalized_word[i:j] == rule['initial']:
-                    normalized_word = normalized_word.replace(normalized_word[k+1:k+n+1], rule['final'])
+                    if len(rule['initial']) == 1:               # preserves 'hh'/'ff' for rule 'h -> hh'/'f -> ff'
+                        if len(rule['final']) == 2:
+                            if rule['final'][0] == rule['final'][1]:
+                                if normalized_word[i:j+1] == rule['final']:
+                                    pass
+                                else:
+                                    normalized_word = normalized_word.replace(normalized_word[k+1:k+n+1], rule['final'])
         k += 1
         i += 1
         j += 1
@@ -61,10 +68,15 @@ def before_r_cons(word, rule):
     return(normalized_word)
 
 def any_place(word, rule):
-
+    n = rule['symbol count']
     normalized_word = word
-    while rule['initial'] in normalized_word:
-        normalized_word = normalized_word.replace(rule['initial'], rule['final'])
+    i = 0
+    j = n
 
+    while j < len(normalized_word):
+        if normalized_word[i:j] == rule['initial']:
+            normalized_word = normalized_word.replace(rule['initial'], rule['final'])
+        i += 1
+        j += 1
     return(normalized_word)
 

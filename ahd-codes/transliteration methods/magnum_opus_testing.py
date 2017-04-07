@@ -8,7 +8,7 @@ rules = [{'initial': 'th', 'symbol count': 2, 'final': 'd', 'text': 'tatian.txt'
          {'initial': 'kch', 'symbol count': 3, 'final': 'k', 'text': 'all', 'placement': 'в начале слова или после согл.'},
          {'initial': 'ch', 'symbol count': 2, 'final': 'hh', 'text': 'all', 'placement': 'после гл.'}]
 
-
+# TESTING individual rules on individual words:
 token1, new_t1 = 'thorn', 'dorn'
 res1 = begin_of_word(token1, rules[0])        # BEGIN - WORKS
 print(new_t1, res1)
@@ -44,56 +44,74 @@ all_rules = get_data('data_table.csv')
 
 all_start = ['thelta', 'môlôkô', 'mólókó', 'mércy', 'mêrcy', 'aercade',
              'dhordher', 'loore', 'cleean', 'bæar', 'parðon', 'pphonpph',
-             'kchernel', 'enkchore', 'schone', 'hland', 'afford', 'azzure', 'ahhem',
+             'kchernel', 'enkchore', 'schone', 'hland', 'afford', 'azzure', 'ahem',
              'pfopfe', 'phonph', 'zzapzz', 'chomch', 'khlankh', 'scandal', 'hnear',
              'hroad', 'ruf', 'azure', 'ahem', 'mólókó', 'moloko', 'méal', 'meal',
-             'zerze', 'klink']
+             'zerze', 'klink', 'ahhem']
 
 all_end = ['delta', 'môlôkô', 'moloko', 'mercy', 'mêrcy', 'ercade',
            'dorder', 'lôre', 'clêan', 'bêar', 'pardon', 'pfonpf',
            'kernel', 'enkore', 'skone', 'land', 'afford', 'aȥȥure', 'ahhem',
            'pfopfe', 'pfonpf', 'zapz', 'komk', 'klank', 'skandal', 'near',
            'road', 'ruff', 'aȥȥure', 'ahhem', 'môlôkô', 'moloko', 'mêal', 'meal',
-           'zerze', 'klink']
+           'zerze', 'klink', 'ahhem']
 
 all_res = []
 
-for word in all_start:
+for word in all_start:          # TESTING all rules on a set of words - WORKS (32/37 words)
     changed_word = word
     print(word)
 
     for rule in all_rules:
         
         if 'в начале слова или после согл.' == rule['placement']:
+            cw = changed_word
             changed_word = begin_of_word(changed_word, rule)
             changed_word = after_something(changed_word, rule)
-            print(changed_word, '01')
+
+            if cw != changed_word:
+                print(changed_word, rule['initial'], rule['final'])
 
         else:
             if 'в начале слова' == rule['placement']:
+                cw = changed_word
                 changed_word = begin_of_word(changed_word, rule)
-                print(changed_word, '02')
+                
+                if cw != changed_word:
+                    print(changed_word, rule['initial'], rule['final'])
 
             else:
                 if 'после гл.' == rule['placement']:
+                    cw = changed_word
                     changed_word = after_something(changed_word, rule)
-                    print(changed_word, '03')
+                    
+                    if cw != changed_word:
+                        print(changed_word, rule['initial'], rule['final'])
 
                 else:                   
                     if 'перед сочетанием r+согл.' == rule['placement']:
+                        cw = changed_word
                         changed_word = before_r_cons(changed_word, rule)
-                        print(changed_word, '04')
+                        
+                        if cw != changed_word:
+                            print(changed_word, rule['initial'], rule['final'])
 
                     else:
                         if 'любая' == rule['placement']:
+                            cw = changed_word
                             changed_word = any_place(changed_word, rule)
-                            print(changed_word, '04')
+                            
+                        if cw != changed_word:
+                            print(changed_word, rule['initial'], rule['final'])
         continue
-              
     print(changed_word, '\n')
+    all_res.append(changed_word)
     
 
 print(len(all_start))
 print(len(all_end))
 print(len(all_res))
 
+for i in range(len(all_end)):
+    if not all_end[i] == all_res[i]:
+        print(all_end[i], all_res[i], '\n')
