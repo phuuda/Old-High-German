@@ -1,4 +1,4 @@
-# TEST CASE
+# RULE TESTING
 from rules import get_data
 from replace_fcns import begin_of_word, after_something, before_r_cons, any_place
 
@@ -42,23 +42,26 @@ print('\n')
 
 all_rules = get_data('data_table.csv')
 
-all_start = ['thelta', 'môlôkô', 'mólókó', 'mércy', 'mêrcy', 'aercade',
+all_start = ['Thelta', 'môlôkô', 'mólókó', 'mércy', 'mêrcy', 'aercade',
              'dhordher', 'loore', 'cleean', 'bæar', 'parðon', 'pphonpph',
-             'kchernel', 'enkchore', 'schone', 'hland', 'afford', 'azzure', 'ahem',
+             'kchernel', 'enkchore', 'Schone', 'hland', 'afford', 'azzure', 'ahem',
              'pfopfe', 'phonph', 'zzapzz', 'chomch', 'khlankh', 'scandal', 'hnear',
-             'hroad', 'ruf', 'azure', 'ahem', 'mólókó', 'moloko', 'méal', 'meal',
+             'hroad', 'ruf', 'azure', 'Ahem', 'mólókó', 'moloko', 'méal', 'meal',
              'zerze', 'klink', 'ahhem']
 
-all_end = ['delta', 'môlôkô', 'moloko', 'mercy', 'mêrcy', 'ercade',
+all_end = ['Delta', 'môlôkô', 'moloko', 'mercy', 'mêrcy', 'ercade',
            'dorder', 'lôre', 'clêan', 'bêar', 'pardon', 'pfonpf',
-           'kernel', 'enkore', 'skone', 'land', 'afford', 'aȥȥure', 'ahhem',
+           'kernel', 'enkore', 'Skone', 'land', 'afford', 'aȥȥure', 'ahhem',
            'pfopfe', 'pfonpf', 'zapz', 'komk', 'klank', 'skandal', 'near',
-           'road', 'ruff', 'aȥȥure', 'ahhem', 'môlôkô', 'moloko', 'mêal', 'meal',
+           'road', 'ruff', 'aȥȥure', 'Ahhem', 'môlôkô', 'moloko', 'mêal', 'meal',
            'zerze', 'klink', 'ahhem']
 
 all_res = []
 
-for word in all_start:          # TESTING all rules on a set of words - WORKS (32/37 words)
+# TESTING all rules on a set of words - WORKS (35/37 words)
+# 2 mistakes due to NOTKER.TXT specific rules will be accounted for in actual text normalization
+
+for word in all_start:
     changed_word = word
     print(word)
 
@@ -107,11 +110,11 @@ for word in all_start:          # TESTING all rules on a set of words - WORKS (3
     print(changed_word, '\n')
     all_res.append(changed_word)
     
-
-print(len(all_start))
-print(len(all_end))
-print(len(all_res))
+print(len(all_start), len(all_end), len(all_res))
 
 for i in range(len(all_end)):
     if not all_end[i] == all_res[i]:
         print(all_end[i], all_res[i], '\n')
+
+
+
