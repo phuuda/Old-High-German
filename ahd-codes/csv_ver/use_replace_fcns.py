@@ -41,10 +41,10 @@ def apply_rules(text_file, word, rules):
 
     for rule in rules:
         if rule['text'] == 'all':
-            changed_word = apply_rules(word, rule)
+            changed_word = iterate_rules(word, rule)
         
         if text_file == rule['text']:
-            changed_word = apply_rules(word, rule)
+            changed_word = iterate_rules(word, rule)
 
     return changed_word
    
