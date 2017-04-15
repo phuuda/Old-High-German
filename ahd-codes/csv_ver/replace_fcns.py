@@ -1,6 +1,8 @@
 # WIP
 
 def preserve_case(word, normalized_word): # applied in all functions below
+    word = str(word)
+            
     if word[0].isupper(): # Word
         normalized_word = normalized_word.replace(normalized_word[0], normalized_word[0].upper())
 
@@ -10,20 +12,27 @@ def preserve_case(word, normalized_word): # applied in all functions below
     return normalized_word
 
 def begin_of_word(word, rule):
-    n = rule['symbol count']
-    normalized_word = word.lower()
-    if normalized_word[:n] == rule['initial']:
-        normalized_word = normalized_word.replace(normalized_word[:n], rule['final'])
+    i = 0
+    if (word[0] == '«') or (word[0] == '\"') or (word[0] == '\('):
+        i = 1
 
-    normalized_word = preserve_case(word, normalized_word)
+    n = rule['symbol count']
+    word = str(word)
+    normalized_word = word.lower()
+
+    if normalized_word[i:n] == rule['initial']:
+        normalized_word = normalized_word.replace(normalized_word[i:n], rule['final'])
+
+    #normalized_word = preserve_case(word, normalized_word)
     return(normalized_word)
 
 def after_something(word, rule):
     n = rule['symbol count']
+    word = str(word)
     normalized_word = word.lower()
 
-    vowels = ['a', 'â', 'e', 'ê', 'ë', 'i', 'î',
-              'u', 'û', 'ä', 'o', 'ô', 'ö', 'ü']
+    vowels = ['a', 'â', 'ä', 'e', 'ę', 'ê', 'ë', 'i', 'î',
+              'u', 'û', 'ü', 'o', 'ô', 'ö']
     consonants = ['p', 'b', 'm', 'w', 'f', 'v', 't',
                   'd', 'z', 'n', 's', 'ȥ', 'r', 'l',
                   'c', 'k', 'g', 'h', 'c', 'j']
@@ -60,11 +69,12 @@ def after_something(word, rule):
         i += 1
         j += 1
 
-    normalized_word = preserve_case(word, normalized_word)
+    #normalized_word = preserve_case(word, normalized_word)
     return(normalized_word)
 
 def before_r_cons(word, rule):
     n = rule['symbol count']
+    word = str(word)
     normalized_word = word.lower()
     
     consonants = ['p', 'b', 'm', 'w', 'f', 'v', 't',
@@ -86,11 +96,12 @@ def before_r_cons(word, rule):
         k += 1
         m += 1
         
-    normalized_word = preserve_case(word, normalized_word)
+    #normalized_word = preserve_case(word, normalized_word)
     return(normalized_word)
 
 def any_place(word, rule):
     n = rule['symbol count']
+    word = str(word)
     normalized_word = word.lower()
     i = 0
     j = n
@@ -101,6 +112,6 @@ def any_place(word, rule):
         i += 1
         j += 1
         
-    normalized_word = preserve_case(word, normalized_word)
+    #normalized_word = preserve_case(word, normalized_word)
     return(normalized_word)
 
