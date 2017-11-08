@@ -10,3 +10,12 @@
 Софья Стырина
 
 под руководством к.ф.н. Пименовой Натальи Борисовны и к.ф.н. [Орехова Бориса Валерьевича](http://nevmenandr.net/bo.php).
+
+Текущие задачи:
+1. Кластеризация слов (объединение словоформ одной леммы в кластер).
+
+2. Работа с [базой данных](https://docs.google.com/spreadsheets/d/1s1FnKh7CvT6Nz3hwzS2_zJcLeLmsWuIQHvayYSkKlcM/edit?ts=58a73a8a#gid=1033963496) -- написание программы для унификации написания.
+
+3. Создание flask сайта для работы с текстами + словарем.
+
+4. Обработка [словаря](https://drive.google.com/file/d/0B3oIFMFq-4s2aTBEY29sTU1mWTYzQTdQTWFYUEpib0RzSTRF/view?usp=sharing) (jsonification).
