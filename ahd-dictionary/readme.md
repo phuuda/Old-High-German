@@ -2,12 +2,12 @@
 
 .txt --> .html
 
-manually clean file:
+<b>manually clean file</b>:
 * line separation
 * header word(s)
 * cyrillic/latin symbols
 
-automatically add semantic tags:
+<b>automatically add semantic tags</b>:
 * header word(s):	<strong>...</strong>
 * definition:		<em>...</em>
 * POS:			(...)
@@ -16,11 +16,13 @@ automatically add semantic tags:
 * language:		свн. дс. нн. да. дс. нн. го. ди. a. лат.
 
 			
-remove 'p' tags
+<b>remove 'p' tags</b>
 
-check all abbrev. forms -->
+<b>check all abbrev. forms</b> -->
 * сокр. ср. см.
+* etc.
 
-check all (...) -->
+<b>classify all (...)</b> -->
 * pos 	= (прил.), (предл. с дат. вин.)
 * special = (снгл. 3), (слгл. 2), (ô), (i), (n)
+* etc.
