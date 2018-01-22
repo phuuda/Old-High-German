@@ -1,4 +1,4 @@
-OHG DICT to do list:
+## OHG DICT to do list:
 
 .txt --> .html
 
@@ -7,22 +7,19 @@ manually clean file:
 * header word(s)
 * cyrillic/latin symbols
 
-add semantic tags:
+automatically add semantic tags:
 * header word(s):	<strong>...</strong>
 * definition:		<em>...</em>
 * POS:			(...)
 * source:		—...-
 * gender:		жр мр срр
-* language:		 свн. дс. нн. да. дс. нн. го. ди. a. лат.
+* language:		свн. дс. нн. да. дс. нн. го. ди. a. лат.
 
 			
-
-remove <p> ?
+remove 'p' tags
 
 check all abbrev. forms -->
 * сокр. ср. см.
-
-
 
 check all (...) -->
 * pos 	= (прил.), (предл. с дат. вин.)
