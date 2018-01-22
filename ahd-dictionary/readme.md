@@ -12,14 +12,14 @@
 * definition:		```<em>...</em>```
 * POS:			(...)
 * source:		—...—
-* gender:		жр мр срр
-* language:		свн. дс. нн. да. дс. нн. го. ди. a. лат.
+* gender:		жр, мр, срр
+* language:		свн., дс., нн., да., дс., нн., го., ди., a., лат.
 
 			
 <b>remove ```<p>``` tags</b>
 
 <b>check all abbrev. forms</b> -->
-* сокр. ср. см.
+* сокр., ср., см.
 * etc.
 
 <b>classify all (...)</b> -->
