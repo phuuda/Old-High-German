@@ -11,7 +11,7 @@
 * header word(s):	<strong>...</strong>
 * definition:		<em>...</em>
 * POS:			(...)
-* source:		—...-
+* source:		—...—
 * gender:		жр мр срр
 * language:		свн. дс. нн. да. дс. нн. го. ди. a. лат.
 
