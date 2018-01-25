@@ -11,7 +11,13 @@
 
 <b>add semantic tags</b>:
 * header word(s):	```<strong>...</strong>```
-* definition:		```<em>...</em>```
+* definition:
+```feigi, свн. veige (прил.) обреченный, проклятый, приносящий горе, рнвн. испуганный; нн. feig трусливый; дс. fegi, да. fAE-Ʒe, ди. feigr.```
+** двн. definition
+** свн. definition
+** нн. definition
+
+
 * POS:			(...)
 * source:		—...—
 * gender:		жр, мр, срр
