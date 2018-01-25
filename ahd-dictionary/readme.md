@@ -49,7 +49,7 @@
 (сн.)
 (рун.)
 ```
-* other ():
+* other grammatical notes (?):
 ```
 (род.)
 (заимств.)
