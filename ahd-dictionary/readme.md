@@ -1,13 +1,15 @@
-## OHG DICT общий to do list:
+## OHG DICT общий to-do list:
 
-.txt --> .html
-
-<b>manually clean file</b>:
+<b>еще раз вручную проверить ohg_dictionary</b> (потенциально понадобится, пока не нужно):
 * line separation
 * header word(s)
 * cyrillic/latin symbols
 
-<b>automatically add semantic tags</b>:
+# Задачи для компьютерщика:
+
+.txt --> .html
+
+<b>add semantic tags</b>:
 * header word(s):	```<strong>...</strong>```
 * definition:		```<em>...</em>```
 * POS:			(...)
@@ -24,7 +26,7 @@
 
 # Задачи для теоретиков:
 
-<b>Разбить на группы пометки, которые встречаются в скобках</b> -->
+<b>Разбить на осмысленные группы те пометки, которые встречаются в скобках</b> -->
 * POS:
 ```
 (предл. с дат. вин.)
