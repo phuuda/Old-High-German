@@ -12,10 +12,11 @@
 <b>add semantic tags</b>:
 * header word(s):	```<strong>...</strong>```
 * definition:</br>
-<b>feigi</b>, свн. veige (прил.) <i>обреченный, проклятый, приносящий горе, рнвн. испуганный</i>; нн. feig <i>трусливый</i>; дс. fegi, да. fAE-Ʒe, ди. feigr.</br>
-двн. definition</br>
-свн. definition</br>
-нн. definition
+<b>feigi</b>, свн. veige (прил.) <i>обреченный, проклятый, приносящий горе, рнвн. испуганный</i>; нн. feig <i>трусливый</i>; дс. fegi, да. fAE-Ʒe, ди. feigr.</br></br>
+разные тэги?</br>
+<t>двн. definition</br>
+<t>свн. definition</br>
+<t>нн. definition
 
 
 * POS:			(...)
