@@ -17,9 +17,9 @@
 <b>feigi</b>, свн. veige (прил.) <i>обреченный, проклятый, приносящий горе, рнвн. испуганный</i>; нн. feig <i>трусливый</i>; дс. fegi, да. fAE-Ʒe, ди. feigr.</br></br>
 
 разные тэги?</br>
-* двн. definition</br>
-* свн. definition</br>
-* нн. definition
+двн. definition</br>
+свн. definition</br>
+нн. definition
 
 
 * <b>POS</b>:			(...)
