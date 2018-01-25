@@ -10,19 +10,22 @@
 .txt --> .html
 
 <b>add semantic tags</b>:
-* header word(s):	```<strong>...</strong>```
-* definition:</br>
+* <b>header word(s)</b>:	```<strong>...</strong>```
+
+* <b>definition</b>:</br>
+
 <b>feigi</b>, свн. veige (прил.) <i>обреченный, проклятый, приносящий горе, рнвн. испуганный</i>; нн. feig <i>трусливый</i>; дс. fegi, да. fAE-Ʒe, ди. feigr.</br></br>
+
 разные тэги?</br>
 <t>двн. definition</br>
 <t>свн. definition</br>
 <t>нн. definition
 
 
-* POS:			(...)
-* source:		—...—
-* gender:		жр, мр, срр
-* language:		свн., дс., нн., да., дс., нн., го., ди., a., лат.
+* <b>POS</b>:			(...)
+* <b>source</b>:		—...—
+* <b>gender</b>:		жр, мр, срр
+* <b>language</b>:		свн., дс., нн., да., дс., нн., го., ди., a., лат.
 
 			
 <b>remove ```<p>``` tags</b>
