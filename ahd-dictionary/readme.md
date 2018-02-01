@@ -1,16 +1,16 @@
 ## OHG DICT общий to-do list:
 
 <b>еще раз вручную проверить ohg_dictionary</b> (потенциально понадобится, пока не нужно):
-* line separation
+* line separation -- сделано
 * header word(s)
-* cyrillic/latin symbols
+* cyrillic/latin symbols -- сделано
 
 # Задачи для компьютерщика:
 
 .txt --> .html
 
 <b>add semantic tags</b>:
-* <b>header word(s)</b>:	```<strong>...</strong>```
+* <b>header word(s)</b> -- сделано 
 
 * <b>definition</b>:</br>
 
@@ -152,6 +152,4 @@
 * etc.
 
 ## Questions, issues:
-* у статей про глаголы нет POS пометки --> нужно ли добавлять?
-* нужно ли как-то обрабатывать слова с вариантами написания/употребления типа (hin)ein, giwis(si) ?
 * для разделения каких 'кусков' статьи употребляется ';' ?
