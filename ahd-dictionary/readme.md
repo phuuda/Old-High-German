@@ -10,8 +10,8 @@
 .txt --> .html</br>
 
 Разметка латинских слов: -- сделано
-* notker.txt, tatian.txt, evangelienbuch.txt
-* тэг <latin>
+* [notker.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/notker.txt), [tatian.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/tatian.txt), [evangelienbuch.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/evangelienbuch.txt)
+* тэг ```<latin>```
 
 
 
