@@ -27,7 +27,7 @@
 свн. definition</br>
 нн. definition
 
-
+* <b>ссылка на другую статью</b>: ```<linked variants="gibur, buan">```см. gibur, buan</linked> -- сделано 
 * <b>POS</b>:			(...)
 * <b>source</b>:		—...—
 * <b>gender</b>:		жр, мр, срр
