@@ -7,7 +7,13 @@
 
 # Задачи для компьютерщика:
 
-.txt --> .html
+.txt --> .html</br>
+
+Разметка латинских слов: -- сделано
+* notker.txt, tatian.txt, evangelienbuch.txt
+* тэг <latin>
+
+
 
 <b>add semantic tags</b>:
 * <b>header word(s)</b> -- сделано 
