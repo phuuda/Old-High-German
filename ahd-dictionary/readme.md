@@ -3,14 +3,14 @@
 <b>еще раз вручную проверить ohg_dictionary</b> (потенциально понадобится, пока не нужно):
 * line separation -- сделано
 * header word(s)
-* cyrillic/latin symbols -- сделано
+* исправить смешение cyrillic/latin symbols в словах -- сделано
 
 # Задачи для компьютерщика:
 
 .txt --> .html -- сделано</br>
 убрать случайные дупликаты словарных статей -- сделано</br>
 
-Разметка латинских слов: -- сделано
+Разметка латинских слов в текстах: -- сделано
 * [notker.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/notker.txt), [tatian.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/tatian.txt), [evangelienbuch.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/evangelienbuch.txt)
 * тэг ```<latin>```
 
