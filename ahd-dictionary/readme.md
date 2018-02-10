@@ -10,7 +10,7 @@
 .txt --> .html -- сделано</br>
 убрать случайные дупликаты словарных статей -- сделано</br>
 
-Разметка латинских слов в текстах: -- сделано
+<b>Разметка латинских слов в текстах</b>: -- сделано
 * [notker.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/notker.txt), [tatian.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/tatian.txt), [evangelienbuch.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/evangelienbuch.txt)
 * тэг ```<latin>```
 
@@ -27,10 +27,10 @@
 нн. definition
 
 * <b>ссылка на другую статью</b>: ```<linked variants="gibur, buan">```см. gibur, buan```</linked>``` -- сделано 
-* <b>POS</b>:			(...)
-* <b>source</b>:		—...—
-* <b>gender</b>:		жр, мр, срр -- сделано
-* <b>language</b>:		свн., дс., нн., да., дс., нн., го., ди., a., лат.
+* <b>POS</b>:			```(...)```
+* <b>source</b>:		```—...—``` -- сделано
+* <b>gender</b>:		```жр, мр, срр``` -- сделано
+* <b>language</b>:		```свн., дс., нн., да., дс., нн., го., ди., a., лат.```
 
 			
 <b>remove ```<p>``` tags</b>
