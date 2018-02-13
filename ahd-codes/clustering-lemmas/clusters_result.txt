@@ -1,0 +1,511 @@
+- *ginénnen:* gilérnen, giméinti, ginenne, ginánto, ginénnen, giwinnan, gizéllen, nénnen, uuéinonten, éinkunne
+ - *gisehet:* chisaghet, diceret, fleisches, gehôret, gesehînt, gesîhít, gialtet, gibetes, gideilder, gilihheta, ginuht, gisehemes, gisehente, gisehes, gisehet, gisiht, gisuuor, giwíhter, keskíhet, kisaget, skephet, sliuffet
+ - *numerantur:* adnumerantur, argumentantur, numerantur, numerentur, pronuntiantur
+ - *núzze:* annuze, flíze, lôzze, lúzzelero, lúzzeli, niuse, núzze, núzzi, ûzze
+ - *áhtonti:* ahtonti, betonti, fástenti, ábahonti, áhton, áhtonti, ántfangi, árunti, éntonti
+ - *chichundit:* chichundemes, chichundidiu, chichundidom, chichundit, chihuurfi, chinemnit, chiruni, chisiuni, kichundit, urchundin
+ - *futura:* fluobra, fradra, fugala, furiro, futura, futuram, futuri, lútaraz, nátera, returnar, scíura, ultra, uuituua
+ - *aduenit:* adbreuiatę, adicit, adnuntiabat, adsumpsit, aduenerit, aduenit, aduentum, aduentus, aduerte, aloosnin, archennit, arhevit, armeninti, arqueketa, duent, uenit
+ - *sina:* ana, anna, bêna, dîna, eina, ginas, gináda, hina, hringa, hína, ita, l'int, lingua, meina, mina, minna, omnia, pina, riof, sang, scóna, sendra, sia, siạ, sibba, sibunzo, sidh, siẹ, sigalos, signa, sihit, sin, sina, sinan, sinaz, sind, sine, sino, sint, sinu, sion, sipbea, sippan, sirêne, skild, skál, spiram, steina, stúnda, sáma, sáng, sánt, séhs, síbino, sína, sínan, sínaz, sîna, sósó, tia, virina, ána, érhina, ígena, ísine
+ - *stet:* arget, búent, esset, hielt, iter, leitet, lîeb, septem, septies, skînet, snel, spáto, stat, sten, stet, steti, stuen, stúmmer, stúpfes, síhet, sôhtut, ten, teta, trostet, zîten
+ - *gisezit:* chisetzit, direxit, gibrieuit, gimazzo, ginemnit, gineriti, gisaztiu, giscrib, gisellion, gisentit, gisezit, gisezitu, giskerit, gisázta, giweit, giwéizit, suilizot
+ - *inan:* binóman, canan, dannan, dinan, eigan, einan, exinaniuit, gángan, gíang, hinan, inan, ingald, ingán, innan, invar, inwit, ịn, lidan, likkan, lésan, minan, nan, non, thinan, wánana, zikin, zéizan, ánawani, ænon, énnônt, énêr, êrôn, ínan, ínnan, ínnana, únzan, ęnan
+ - *intellege:* intellege, intellegentes
+ - *himiliscun:* himilisca, himilisches, himiliscun, himiliskin
+ - *unuuerdnissu:* subernessi, unuuerdnissu
+ - *hanton:* bánton, díhtọ, fianton, fíanton, haldan, hanton, haptbandum, harto, hauwan, holdon, hánton, lêrton, sanctorum, thancodun, uaston, urancono, uuangon, vazzon, wántin
+ - *the:* achre, aha, bethleem, dîe, ecce, fohem, he, hê, que, spâhe, tac, te, thaz, the, theh, theih, theiz, them, themo, then, theo, thes, thi, thie, tho, thoh, thu, tház, thés, thía, thíe, thíh, thó, thô, thú, thúlte, thû, tie, tod, tole, tuem, tíse, tíu, tîa, tîe, tîen
+ - *imo:* ano, damno, démo, homo, im, imo, imos, imoz, imọ, impii, imu, io, ipu, iro, izs, ịz, mo, namo, nilo, odo, sliumo, témo, uisio, vilo, wizod, zeizo, zímo, zûo, ímo, đemo, đêmo
+ - *danihelis:* danielis, danihel, daniheles, danihelis, danihelo
+ - *mísseskíhte:* mísseskíhte
+ - *quedenti:* louffenti, nórdenân, quedenti, quedentiu, quementi, quædenti, quędenti, suigenti, unberenti, uuederemo, uuizenti
+ - *selbomo:* salomon, selbemu, selbomo, selpemo, sermonem, sélbomo
+ - *forhóubitota:* forhóubitota
+ - *lebeta:* gebet, hábeta, lazzeta, lebento, lebeta, legem, lepenten, ládeta, misselebeta, netéta, plebem, zuoclebeta
+ - *erbárot:* erbárot, erbárôt
+ - *chám:* chat, chor, chud, chumft, chád, chám, chámé, châmen, chît, chómene, chúmig, chúnt, crucem, frám
+ - *erda:* aerdha, arma, drúdu, drúta, eadem, eddo, ekordị, era, erbi, erda, erdo, erdu, ergo, erira, euua, frîia, fîerdo, gereda, herode, hwerdar, pereg, perga, uerba, uerd, uerra, uuereda, werdan, werde, werpan, érda, érdo, ęterna
+ - *rachon:* búachon, errahchon, kirahhon, kríachi, machon, racha, rachon, rahhon, rahono, richesôn, ráchon, rúachent, sprachun, ópphoron, únchúnt
+ - *namen:* duomen, gaumun, kenómen, nales, namen, namon, namun, nasci, nomen, námon, rumen, râmên, tamen, valenc, warun
+ - *manon:* banin, banun, magon, maior, manac, mannan, manne, mannun, mano, manon, masun, meon, miaton, mâno, mârûn, tagon, wáfanon, zûnon
+ - *scadhen:* cadhuna, kezíhen, scadhen, scalches, scalcun, scarpen, schameen, scíuhen
+ - *se:* --, ce, de, esse, huse, húse, ipse, jóseph, me, meg, ne, nec, nú, nû, pe, pî, s, sa, sage, se, sed, see, selp, seo, sẹ, si, sie, sn, so, sáre, sâr, sé, sê, sêre, sí, síe, sî, sîd, sîe, só, sô, sôse, uel, xl, ze, zeli, zé, zí, ál, úf, ûf, đem
+ - *lid:* ait, bis, bị, cod, eid, fide, gib, góld, id, leid, li, lib, lid, lido, lioht, lip, lxx, léid, léida, líb, líde, lîb, lîd, lób, nid, olim, plaid, pílide, salig, sid, sâlig, vii, wird, zide, ziidh, zị, íli, ílit
+ - *thrítten:* thritten, thríosezzo, thrítten, tríuuôn, zirrettinne
+ - *fránkon:* biwánkon, brunnono, dráhton, fránkon, fránkono, irkántun, urankon
+ - *lobota:* lobonte, lobontiu, lobota, lonot, ládota, lóbotun, notata, roûboti
+ - *galileu:* galileu, galileæ, galileę, ágaleize
+ - *firnam:* firahim, firdánes, firnam, firnemamês, firnimis, firnimu, firnâmut, firnéman, formam, fram, furnam, gloriam, hierusalem
+ - *uuesan:* buuzssan, erubescant, huckan, lossan, presag, suasat, thesan, uuahsamon, uuanan, uuasal, uuechant, uuehsale, uuehsales, uuesan, uuesta, uuestun, uuison, uuissant, uuohsun, uuésen, uuízen, uuîlon, uuôdan
+ - *gitan:* cotan, getân, gibar, gidan, gidán, giháltan, gihítin, gilampf, gitan, gitano, githanca, gitán, gitân, giwón, gizál, gáhun, kitar, ritan, scritan, setzan, úngimah
+ - *miniu:* finis, fintu, macedóniu, meinit, miniu, minniu, minu, minuisti, minus, mittiu, moltu, médị, mîniv, pidiu, rinit, sibuniu, siniu, umbigrabu, viiii, waniu, úrminnu
+ - *cessauerunt:* cecinerunt, cessauerunt, iurauerunt
+ - *capiut:* capaot, capiut, capiutu, caput, caputî, coepit, corpus, cuius, hapênt, suscipiunt
+ - *chimartorodan:* chimartirot, chimartorodan, chiminnerodes
+ - *chiscribe:* cheisuringu, chiscriban, chiscribe, chiscribes, chiscrip, chunincriche, giscriban, giscríbe
+ - *sízzent:* bízzet, heîzzent, hîezent, mézent, sizzenton, sízzen, sízzent
+ - *stentit:* gendiot, kistentit, kreftic, sehstic, skenkit, skánctin, spenis, spénit, steinahti, stentit, strengi, stritit, stultitia, stundom, stántan, stírbit, séntit
+ - *uuiht:* duit, enihc, eouuihd, euuit, huittę, iouuiht, niuuiht, sauuit, skihit, uualhâ, uuihita, uuihrouh, uuiht, uuihtir, uuili, uuistom, wiht, íúuúih
+ - *uuenaga:* uuasagam, uuenaga, uuenago, uuenteo, uuizzaga, welaga
+ - *abuh:* aboha, abuh, abur, adhuc, aiudha, amur, arbeo, auh, avur, azzun, uzouh, wabnum, ábuh, óuh
+ - *giburti:* antvvurti, chiburdi, chiburt, geuuhti, giantvvurtitin, giantvvurtitus, giboraniu, gibuozta, gibure, giburita, giburti, gibíete, gibúrti, gifuotrit, gihórti, gilust, gilústi, ginuhtsami, giquáti, giuuati, giwurtig, gébenti, hinauarth, kihuctin, langobardi, nisparoti
+ - *anfenc:* anfenc, antfenc, infenc
+ - *nim:* bim, eam, enic, enim, hêim, inimici, nam, ni, nibu, nim, nio, nisi, niz, nị, nobis, nul, nám, nâh, núb, ueniam, uiam, đêm
+ - *nohheinig:* nohhein, nohheinig, nohheiniu, theheiniga
+ - *foltruncane:* foltruncane
+ - *habenne:* habeant, habenne, hapênne, horenne, hábenne, karlemanne, sagenne, sauuenne, uéhtenne
+ - *sineru:* asnere, dhinera, dhineru, mineru, minnerun, scaffaneru, scóneru, sinemu, sinera, sineru, spilodun, sáligeru, síneru, zínseru, ęnigeru
+ - *thana:* czala, dhanan, dhazs, hanc, humana, hyaena, mihhala, obana, thahta, thana, thanan, thanana, thanc, thann, thara, tharana, tharot, tharána, thegana, thina, thinaz, thorna, thárazua, théganạ, thína, úrwanaz, úzana
+ - *fundun:* clubodun, fielun, flizzun, fultun, fundauit, fundun, funtan, mundum, mundus, secundum, sindun, tiuflun, uurdun, uuândôn, vigandun, óugdun
+ - *huuedhar:* huuedhar, huuedheru, uuidhar
+ - *burg:* bari, barn, buoz, burc, bure, burg, burgi, burgliuto, burolang, búrg, cur, furi, iung, ríuag, strazburg, zuéi
+ - *meinida:* blidida, gelimida, heilidha, meinida, miltida, peigira, setzida
+ - *arsluog:* arsluoc, arsluog, arsluogi, arsluogun, arsturbi, erslûog, slûog
+ - *passionem:* operationem, passione, passionem, uisionem, unctionemque
+ - *uuege:* piqueme, quede, uogele, usere, uuege, uueghe, uueiz, uuige, uulgo, uuázzere, uuênegen, uuíbe, uuíget, zuuene, óuge
+ - *hera:* chirado, deta, dhera, dhesa, dhurah, ferah, geba, geru, heht, helías, hera, heres, heri, herie, herza, heród, heuane, hirta, horn, hára, héra, hérza, hórta, mera, mêra, nara, thera, therra, tára, wela, échert
+ - *exspectans:* exspectans, exspectetur
+ - *erkorane:* erkorane, perorasset, uerlorane
+ - *iungiron:* fingirin, iungiron, iungist, iungoro, júngoron, uuingarten, zuogituon
+ - *paum:* causa, causam, exulem, lauc, meum, natum, pald, paluuic, part, passus, pati, paulo, paum, peccatum, plus, poum, primum, procul, prut, rauba, tuum, utrum
+ - *rédina:* brédiga, modica, rapinam, redinu, rédina, rédinon, rédinu, rîdont, zéhinu
+ - *chilauban:* chidaan, chieredan, chigarauuan, chigheban, chilauban, chilauben, chilaubidin, chisalbot, chislaganan, chára-sáng, unchilaubendi, unchilaubo
+ - *liuti:* alloquuti, cruci, hiutu, kilutit, leuuo, lietz, lioth, listic, liudi, liudim, liuhta, liut, liuti, liutin, lougiu, luto, líuti, piutit, quáti, slihti, tirri, tiufi, uirtutis, íh-tir
+ - *wízzin:* lazzit, wazzar, wírdige, wízzan, wízzi, wízzin, wízzod
+ - *allero:* alderih, allemo, allero, alleru, altero, aluualdendeo, sláchero, tîlegúngo, állemo, állero, álleswio
+ - *quamun:* alamusanu, commun, guðhamun, quadhun, quamun, quenun, quâmum, quâmut, quénun, quęramus, uuarun
+ - *finstri:* finstri, firwésti, vinstri
+ - *mi:* bi, cui, di, i, megi, mi, mig, mih, min, mir, mit, moysi, ms, mári, méz, mêr, pi, ti, umbi, umpi, upi, xvi, zi
+ - *sinen:* drânen, einen, linee, minen, sconen, sibun, simeon, sinem, sinen, singen, sirenis, sirenê, sitten, sịẹ, slîfen, sprinet, sâligen, séhen, séhên, sínen, sînen, sînên, thinen, wirken, éinen
+ - *forasago:* forasagin, forasago, forasagono, forasagun, foraspel, stuatago
+ - *sínuuelbíu:* sínuuelbíu
+ - *significantiam:* significantiam
+ - *gigáhe:* gidráhte, gigáhe, gigárawe, gihóhe, gimácha, giwísse, gizámi, liihhe
+ - *redemptionem:* adsumptionem, incorporationem, redemptionem
+ - *beróubôn:* beróubôn, beróubôt, úberuuúnde
+ - *ostendimus:* ostendens, ostendimus, ostenditur
+ - *herzun:* aerlosun, ahtuzug, feorzuc, heigun, heptidun, heriun, herizohin, herzen, herzin, herzun, heuwun, horuue, hreuun, héizên, hêrzon, khenfun, merun, terręque, tohterun, urhettun
+ - *multiplicabitur:* multiplicabitur
+ - *varprinnit:* arspringit, farprunnan, varprinnit, varsuuilhit
+ - *infahan:* infahan, infahant, intfahan, unwahsan
+ - *lides:* blides, bâbes, dauides, findemes, geliden, helidos, idem, idisi, idrís, iâres, libes, lides, lidirenkî, lisist, lándes, léidege, lídes, lîdes, mordes, philippes, upiles, wiges
+ - *uuihrouhbrunsti:* uuihrouhbrunsti
+ - *hiltibrantes:* heribrantes, hiltibrant, hiltibrantes
+ - *uuidarstantanne:* uuidarsahchon, uuidarstantanne
+ - *gisamanon:* birahanen, gisamano, gisamanon, gisamonoten, gispáratos, giwídaron, gundfanon
+ - *ebdomades:* ebdomada, ebdomadas, ebdomade, ebdomades, ebdomadę, erbarmedes
+ - *héiminges:* héiminge, héiminges, héimortes
+ - *suanari:* luginari, paioari, reparari, saluarai, skachari, suanari, subarnessi, sumaro, séxtari, uocari, uuartari
+ - *andrem:* alexándres, amorem, andaru, anderes, andreidim, andrem, andremo, annorum, antreitu, tandem
+ - *incarnatus:* incarnatus, incredulus, principatus
+ - *framgigiengun:* framgigiengun
+ - *des:* dea, dei, dem, den, deo, der, des, desemo, desse, desêr, deus, dhes, dhesiu, dâr, dés, dîen, es, hus, hûs, meos, nesî, neuls, tes, uzs, was, wís, zeso, úns
+ - *sequitur:* sempiterna, sequamur, sequitur, seruaturum, spiritus, terminatur
+ - *suertu:* scerita, subiectus, suert, suertu, superbiam, suáraz, suértu, wettu
+ - *girústes:* giréstes, girústes, girústit, kristes
+ - *enti:* anni, anti, branti, dati, dáti, endi, ente, enteo, enti, ernusti, etsi, genui, inti, noti, resti, unti, wentilsęo, zíti, álti, élti, énti, óndi, únzi
+ - *firstántnisse:* firstandande, firstántnisse
+ - *cuninges:* cuninge, cuninges, eininges, kúninges
+ - *ir:* ar, arc, dir, er, ih, ik, il, in, ir, ira, iru, it, iu, iz, iár, iâr, podir, prior, skir, uir, ur, wir, ér, êr, ír, íru, ęr
+ - *rehtnissa:* arlósnessi, berahtnessi, chiliihnissa, dhrinissa, gotnissa, hartnissu, idalnissa, ratissa, rehtfestin, rehtnissa
+ - *sapienti:* sapiens, sapienti, sapientia, scámenti
+ - *reit:* beit, breittin, bríhit, dedit, dreit, drífit, frewit, grébit, heittu, hevit, hregilo, húrsgit, nórdert, preita, profecit, redie, regis, rehd, reht, reinot, reit, rîdot, teil, weih, weiz, wirkit, ęrrin
+ - *numerabis:* admirabilis, numerabis, numerauit
+ - *uueraldi:* huuerfandi, uueraldi, uuerolti, uundarliih
+ - *luciferum:* crucifixum, lucifere, luciferum, sacrificium
+ - *uuerden:* fîerden, iruuenden, quekkhen, ubargeng, uuerchin, uuerdan, uuerde, uuerden, uuerdent, uuerdhan, uuerdhant, uuerdhe, uuerdhen, uuerdin, uuolder, uuordan, uuurdun, uuâren, uuérden, uuîelten, uuórten, uuúrten
+ - *ánderen:* ludheren, mínneren, neúndernâmîn, ándere, ánderen, ánderes, ánderro, ánderêr, ánderíu, úndenân, úndergîeng
+ - *ungeloubige:* geloubige, ungeloubige, ungiloubfolle, ungilóubige
+ - *sungun:* brungan, giengun, hungar, ilungu, júgund, ougun, samnunghe, scuofun, sinthgunt, sorgun, sungi, sungun, sunnun, suntigen, síbuntun, zugun, zungun, zúngun, édilzungun, óugôn
+ - *codvalencbibl:* codvalenc, codvalencbibl
+ - *lyuzilun:* lezidun, liuzelu, luzigun, lyuzilan, lyuzilun
+ - *lante:* altfiante, ante, bihaltante, cuncte, daniel, ilente, langhe, lango, lant, lante, lantes, lánt, lánte, lénget, sante, sęolidante, élilente, únscante
+ - *uirnlustigo:* uirnlustigo
+ - *uuehhon:* uuahhante, uuahsmon, uuehhom, uuehhon, uuehhono, uuehhun, uurehhan
+ - *evangéliono:* evangéliono
+ - *tages:* altares, dages, otages, sageda, sages, tage, tages, tagun, toufares
+ - *ciuitate:* auctoritate, ciuitate, ciuitatem, diuinitate
+ - *creaturę:* creaturis, creaturę, scribturę
+ - *ludhuuuig:* lodhuuuig, ludhuuuig, ludhuuuige
+ - *hélla:* chéligo, gestélle, hella, hilfa, holza, hébig, hélla, hélle, nulla, snélli, uolla, zéllu
+ - *theonon:* dheonondiu, gilonon, rehtkernon, thegeno, theonon, thiotono, tholon, thíonon, tûonouuo
+ - *gihortun:* bibotun, gidúrrun, giforhtun, gihorentemo, gihort, gihorta, gihortun, gihórtaz, giuuorban, gizíartun
+ - *dher:* bedhero, dhar, dhea, dhem, dhemu, dhen, dher, dhero, dheru, dhih, dhir, dhiz, dhoh, dhuo, dohter, hóher, ludher, náhôr, áber, ûzer
+ - *paruolus:* fardoleta, karolus, paruolum, paruolus
+ - *heilan:* arteillan, ellian, geilin, heidine, heilac, heilag, heilagan, heilagen, heilan, heilant, heizzan, helfan, héilan, héizan, mihhilan, nábilin, teilari
+ - *gihalota:* gicorota, gifasta, giflanzotan, gihalde, gihalot, gihalota, gihólota, gimahalta, gisalzota, kihalont
+ - *zachariam:* uuarmatiam, zachariam, zacharias
+ - *gigarauuitas:* gigarauuitas
+ - *mít:* bát, hût, míh, mín, mír, mít, mízit, mûnt, níst, sítu, zít
+ - *fuorun:* arfuorun, bluotrenkî, exorsus, fioru, fuarun, fuor, fuorun, fuotriti, fôrun, huorun, nefûorîn, ruovu, uorlós, uuârun, vuorun
+ - *thuruhuuoneta:* thuruhuuoneta
+ - *probauimus:* adprobabimus, probauimus
+ - *kitarnit:* bithénkit, kifrumita, kimarchot, kipannit, kistarkan, kitarnan, kitarnit, kitriufit, nintfúarit, ostarliuto
+ - *quheman:* chiquhedan, queman, quemant, quhedant, quheman, quhemandes, quhoman, quhomenan, réhtemen
+ - *durft:* curet, darf, duat, dubio, dunat, durft, durfti, durih, duritia, duruh, iurat, luft, thurft, túrft, umbiuuerft
+ - *dicentes:* chifehtes, dicens, dicente, dicentes, diurente, elilentes, excelsus, írrentes, úzwertes
+ - *northmannon:* northman, northmannon, notstallon
+ - *kórcodrîllo:* corcodrillus, kórcodrîllo
+ - *gisahi:* chisahin, giiahi, girati, gisah, gisahi, gisahun, giscuohiu, gisihu, gistimmi, gisíhti, gisíuni, zésawi
+ - *régula:* regula, régula, régulu
+ - *gesunt:* agnoscant, credunt, gekunni, geskáh, gesunt, gesuor, gesézene, geuuúnstêr, gistuont, gisund, keisure, nesint, wewurt, úngeuuândo
+ - *ibi:* bibl, gibu, ibi, ibu, iii, ili, illi, ipsi, oba, sibi, tibi, óba
+ - *thihéinigemo:* thihéinigemo
+ - *mihhilero:* gimahaltero, mihhilero, míhilemo
+ - *gisúngan:* bithuúngan, geslúngen, gibúntan, gigangan, gisprochan, gisungan, gisíngen, gisúngan, gisúngun, gizíugon, pidungan
+ - *híntarqueman:* híntarquam, híntarqueman
+ - *chizelido:* chibreuido, chifrumida, chizelide, chizelido
+ - *christi:* antichristo, celestis, certissime, chinisti, chirista, christ, christan, christe, christes, christi, christian, christianes, christo, christum, christus, chruci, chumfti, chérenti, fórihti, fúrista, hrusti, hrustim, urresti
+ - *omissisque:* omissisque
+ - *selba:* celebrare, salbunga, scolta, scólta, sela, selb, selba, selbo, selida, selpan, sevilla, snelle, sâlda, sélb, sélba, sélbo, síbbu, sílabar, síllaba
+ - *wórolti:* worolt, wórolt, wórolti, wóroltzitin, áltworolti
+ - *deseruiunt:* debellauit, deseruiunt, destruxit
+ - *bilunnan:* bichnaan, biduuungan, bigunnan, bilunnan, bilunnun, bivvuntanaz, ubarwúnnan
+ - *hluduig:* chludun, geuólgig, hluduici, hluduico, hluduig, hluduigan
+ - *biscofheites:* biscofheite, biscofheites
+ - *saman:* esaias, isaias, pagan, saar, sahun, sama, saman, samane, samaso, sazun, sosama, suman, sáman
+ - *heme:* arme, ezzemes, heime, heme, hábe, héime, hímel, hóue, temet
+ - *uocabatur:* reuocaretur, uocabatur, uocabitur
+ - *gabin:* gab, gabi, gabin, gabriel, gabun, gafregin, gíbit, habin, tatin, uarin
+ - *gibot:* bibot, chibot, furgibit, gibet, gibetu, gibod, gibot, gibotes, gibét, gibót, giduot, gihúgt, gilobot, gilóbot, ginóto, staimbort, ímbot
+ - *argangana:* argangana, argentaria, arhangan, arliugan, haranskara, ubarstígana, ziganganemo, úfganganteru
+ - *mittingart:* mittilagart, mittingardes, mittingart
+ - *praeditum:* interdictum, praeceptum, praedicat, praeditum, praelatus, praenuntiauit, praeuaricatio, predictum, proiectum
+ - *fúllent:* fullet, fúllent, fúllentaz, fúllit, irfúllen, yrfúrbent
+ - *wesen:* besézen, desen, moysen, presens, unsen, werien, wesan, wesen, wison, wásso, wéren, wésan, wísemo, wíser
+ - *los:* cosa, floh, gloss, kosa, laosa, las, leop, lob, loco, los, lás, lúst, nálas, pois, post, ros, sos, soso, von
+ - *hímilis:* humillimus, hímeles, hímilis, hímilriches
+ - *farant:* auant, berantu, dára-nâh, farames, farant, faruuu, formónanti, furlaet, fyrodhant, fyrstant, férrôst, fóraht, fúrbrantu, hadubrant, haðubrant, pagant, varant, waltant
+ - *kríst:* argosto, brást, kraft, krist, kráft, kríst, kríste, krístes, neíst, uríst, ákust
+ - *sunufatarungo:* sunufatarungo
+ - *wírt:* gart, kért, ward, wari, wort, worto, wurti, wérk, wíht, wír, wírdit, wírs, wírt, wírte, wórto, wúrti, zíoro, éwarto
+ - *furiston:* furifárane, furimegi, furisizzan, furiston, furtretanu, fúristo, fúriston, heriston, ûzerostên
+ - *fúazi:* flízig, fraz, fuari, fuozi, fúagi, fúar, fúarta, fúazi, hogazi, súazi, súazo, wúahs
+ - *sigihaft:* sigehaf, sigihaft, sigikamf
+ - *her:* aer, haec, hear, hec, her, hier, hiez, hor, huuer, hwer, hér, hîez, hęc, per, ter, wer
+ - *nót:* dót, gót, góte, nat, natu, not, nóh, nót, nóte, nóti, nóto, nôte, tóot, tót
+ - *zehenzugfalto:* sehszugfalto, thrizugfalto, zehenzugfalto
+ - *truhtin:* bráhtun, druhtin, drúhtin, drúhtine, ergrehtin, fréhtin, irfúltin, réhtis, thuhti, thuruhthigan, truhtin, truhtine, truhtines, tróhtin
+ - *uuortum:* honoratum, mortem, mortuum, tuochum, uualhum, uuerchum, uuorte, uuortes, uuortum, uuortun, uuîstuome
+ - *uideretur:* crederetur, reuerteretur, uideretur
+ - *uuola:* bluoda, uiolauit, uulua, uuola, uuolar, uuolda, uuolta, uuóla, wola
+ - *thuruhstah:* thuruhferit, thuruhskluog, thuruhstah
+ - *kiuualtit:* aluualten, aruuartit, aruuostit, keuuáltigo, kipuazti, kiuuafanit, kiuualtit, kiuuinnit, zuîuáltic
+ - *téilet:* ardilet, scilicet, stéllet, teile, thénkent, téiles, téilet, ténchest
+ - *quam:* framquam, numquam, quad, quam, quant, quasi, quat, quem, quhad, quhalm, quham, quhami, quoniam, quám, quę, qúam, tuam, zua, ęqualem
+ - *halota:* galaupa, habata, halftanod, halota, hapeta, holeta, holoda, nalichota, tholota, wallota
+ - *gilóubtun:* giloubtus, gilébetun, gilóubig, gilóubon, gilóubt, gilóubtun, gotliihhun
+ - *heilegin:* heilegeno, heilegim, heilegin, heilego, heilegono, heilegun, heiligon, édilthegan
+ - *wúntar:* dúnkal, fúntan, kúphar, súntar, untar, westar, wuntane, wánta, wúntar, wúntorota, úntar
+ - *habet:* bihaben, fazet, habbe, haben, habent, habes, habet, habeta, habetun, habêt, hapet, hapt, haret, hábet, hóubete, nehábet, paldet, urbem
+ - *sper:* semper, spaher, spel, sper, speru, spâher, spâhi, sumer, super, suêr, uper
+ - *rehte:* fehte, kehîez, pehhe, pehhes, rehte, rehtero, rehtiu, rehto, rehtu, rette, réhto, ríhte, ríhti
+ - *zuohaldin:* zuivaltic, zuohaldin, zuohaldun
+ - *ingangenti:* antlingonti, chúanheiti, gangenti, ingangenti, magadheiti, uzgangenti
+ - *araughida:* araughemes, araughida, araughit, araugta, aridalida, aughidom, drugidha, saghida, spachida
+ - *dero:* bedero, decore, degano, demo, dero, deru, desero, drof, druoc, déro, ero, garo, gerno, járo, kerno, saro, sermo, tero, uero, utero, zíero, ádeilo
+ - *furistsizzenten:* furistsizzenten, furistsizzento
+ - *exterminatione:* exterminatione
+ - *úbe:* fúre, líbe, ében, óbe, úbe, úbelo, úber, úmbe, únz, úze
+ - *mánno:* fásto, lángo, manno, mánne, mánno, mánnon
+ - *sunu:* euuu, hunc, nunc, sumiu, sumu, sun, suni, suno, sunt, sunu, suonu
+ - *einigan:* bisnitan, einigan, einighan, erbolgan, giwigan, intrigane, kipagan, pimidan
+ - *man:* an, bên, cap, gan, gap, kân, mac, mag, mahd, mak, man, mán, mân, mîn, pan
+ - *kinde:* chindh, deinde, findet, kinada, kind, kinde, kindo, kindọ, kinthes, kinuok, kisindi, kínd, kínde, kíndes, sinde, wálde, ziide
+ - *swérton:* skértent, spéron, swérton, wérkon, wórton
+ - *frono:* frano, frido, fronisc, frono, frote, frotoro, fórdrono, gomono, irbólgono, kuono, offono
+ - *líute:* híute, líuber, líut, líute, líutes, líuto
+ - *mánagero:* managemo, managero, mánagemo, mánagero, mánageru, mánegero
+ - *circumfusam:* circumfusam
+ - *vvurdun:* vvurbun, vvurdi, vvurdun, vvurzalun, vvurđun
+ - *siu:* diu, eius, filu, sic, sicut, sigu, sih, simul, sio, sis, sit, siu, siue, siuh, siû, sị, syriu, tiu, ziu, ésil
+ - *uuizunburg:* uuizunburg
+ - *chiunhreinida:* chiunhreinida
+ - *uuelih:* sulih, uuelih, uueliha, uuelihc, uuelihemo, uuelîheru, uuielihan, uuillih, uunderlihu, zuîuelôt
+ - *irbléicheta:* irbléicheta
+ - *uueroltrehtuuison:* uueroltrehtuuison
+ - *sinero:* einemo, einero, minemo, mînero, sceotantero, sinemo, sinero, sinerọ, skíoro, sínemo, sînemo, súlihhero, thínero, wintro, zéizero, éinero
+ - *wár:* alawár, gáb, káb, sár, war, wán, wár, wárd, wárun, wás, wér
+ - *lodhuuicus:* lodharius, lodhuuicus, lodhuuigs, lodhuuuicus, lodhuvicus
+ - *ferit:* begréif, erit, fecisset, fecit, feizit, ferit, forgip, fortis, fuerat, férit, lérit, uérit, verit
+ - *conseruat:* conseruat, consiliarius, consummetur, conuenerunt, potuerunt
+ - *mahti:* ahtu, almahtico, ambahta, mahal, mahalsteti, maht, mahti, mahtigo, martyru, mohta, motti, máhti, mícheli, móhta
+ - *ménnisken:* menischen, menniski, ménnisgon, ménnisken, ménniskôn, uúnnisamin
+ - *friunt:* audiunt, faciunt, friunt, friuntlaos, friuntun, fruht, fríunt, fríunta
+ - *hiuuiske:* chiuuisso, hieruuist, hiuuiske, piuuisanne
+ - *iudeo:* gudea, huneo, huueo, ideo, ideoque, iudaici, iudeno, iudeo, iudeoliudi, iudeoliudim, iudeono, iudeorum, iudeos, iudęi
+ - *sines:* eines, mines, princeps, saxones, sies, sindôs, sines, sinthes, sunes, thines, wánes, wínes, éiganes, éines
+ - *rihhi:* liihhi, mihhil, piehc, rahhu, richi, rihhe, rihhes, rihhi, rihi, riihhes
+ - *iar:* chibar, dar, faru, hiar, iaar, iaaro, iam, iar, iaro, obar, par, piae, sar, ubar, widar, ziara, đar
+ - *simblum:* fimfzuc, simbles, simblum, simplun, titulum
+ - *lêrent:* bênrenkî, lerent, lésent, lêrent, lêret, lírnetôst, wirkent
+ - *satanase:* satanase, satanasz, satanazses
+ - *phigboume:* phigboume, phígboum
+ - *sín:* híon, híun, pín, scríp, son, síd, síh, sín, síne, sínge, síno, sínt, síun, sîn, sún, wín, ín, únsíh
+ - *propheta:* propheta, prophetarum, prophete, prophetiam, propheticus, prophetię, propria, propriis, propter
+ - *populus:* conclusi, populos, populum, populus
+ - *uenturus:* renotenus, uenturo, uenturus
+ - *santa:* ganada, sageta, sahha, sanctam, santa, sata, sazta, skancta, stantan, statuta, suntota, súnta, wanta
+ - *herodias:* herodes, herodiadis, herodianem, herodias, memoriae
+ - *uílo:* fílo, fílu, góldo, poblo, uile, uolgon, urlub, uuílon, uuîo, uíle, uílo, zuíro
+ - *alte:* after, alle, allu, also, alt, alte, alter, altist, altre, altresi, autem, balde, ille, salutem, wálte, álten
+ - *himile:* himil, himila, himile, himiles, himilo, hímele, hímile, ufhimil
+ - *dúan:* búah, dodan, drank, duon, dúam, dúan, dúent, dúmbon, uúas, uúin
+ - *forhta:* fareta, forahta, forhta, forhten, forhti, forhtu, fortos, frambráhta, gotforht, worahta
+ - *lustit:* custodiret, geleistit, gelustigot, hóue-stát, iustitia, iustitię, leitit, lusten, lustit, luttila, lústit, uastitas, wéltit
+ - *giquetan:* giereton, ginuhtsama, giquetan, giquetanu, iniquitas, piqueman
+ - *dioterih:* dioterichen, dioterih, misterium, thioterih
+ - *ménigi:* hébigu, léngi, manigiu, menigi, mánige, ménigi
+ - *gouma:* boume, gouma, goumi, goumon, goumti, góuma, góume
+ - *láz:* báz, dáz, fáz, klága, laz, luzîc, láz, lázu, táz, ûzlâz
+ - *neoman:* eomaer, mermanni, negegango, nemag, neoman, nioman, nîoman
+ - *nehéina:* dehheina, dehinc, nehéin, nehéina, nehéinen, nihéinan, nihéine, nihéines
+ - *wésta:* brésta, custa, gésto, lústa, téta, wolta, wéssa, wésta
+ - *beuélehendo:* beuélehendo
+ - *giuuelih:* gilumphlih, giuuelih, giuuente, giuuerbit, giwelih, iogiuuelih, sihuueliches, virinlih, íogiuuelih
+ - *kyrrieleison:* kyrrieleison
+ - *cuoniouuidi:* cuoniouuidi
+ - *únderskídôt:* únderskídôt
+ - *stéininu:* steininu, stéininu
+ - *dinem:* dhinem, dinem, finem, omnem, ordinem
+ - *crippea:* accipiens, crippa, crippea
+ - *záltun:* duáltun, dátun, fúltun, lęttun, zaltun, záltun, zélitun, áltquéna
+ - *arbeidi:* arbeidi, ardeilendi, arteile, arteilit, aruuegodi, arzelidiu, hérzblidi
+ - *penitentiam:* penitentiam
+ - *vvuntoronti:* vvuntoronte, vvuntoronti, vvuntorotun
+ - *occidit:* accipiat, excidia, occidetur, occidit, quhidit
+ - *zehanzo:* zehanzo, zellando, zéhanzug
+ - *slahta:* slahta, slahtu, sláchíu, sléhtaz, slíhti, tolaheitî
+ - *gifulte:* gifullen, gifulta, gifulte, gifultu, gifúare, gilute
+ - *senu:* genus, pedíu, sehsu, selu, seno, senu, serui
+ - *giuualt:* biuuant, geuuált, giuualt, giuuatet, giuuonu, tiuval, ziuuare, ziuuarf
+ - *álla:* alla, allaz, illa, illuc, wóla, álawar, álla, állan, állaz, álle, álles, állo, álso, álta
+ - *uuisser:* fuisse, suister, uenisse, uuicsteti, uuisser, uuírsera, uúirsira, zuisgen
+ - *simulacris:* simulacris
+ - *soses:* cnuosles, ioseph, loses, moyseses, soser, soses
+ - *onocentauris:* onocentauri, onocentauris, ónocentaurus
+ - *deitatis:* arbitratus, deitatis, desolatio, peractis, testatus, trinitatis
+ - *ánalusti:* follusti, ána-uuág, ánalusti, ínbrusti
+ - *iohannes:* iohannem, iohannes, iowánne, johánnes, rouhennes, tíhtonnes
+ - *eliases:* abiases, cessasse, elias, eliase, eliases, explesset, heliases, hwelihhes
+ - *hára-úbere:* hára-úbere
+ - *chiscafti:* chiscafti, chiscaftim
+ - *lantscefi:* lantscaf, lantscefi, lantskeffi
+ - *paradiso:* harmlicco, paradises, paradisi, paradiso, pardisu
+ - *uuidharbruhtic:* uuidharbruhtic
+ - *ther:* thar, ther, thero, theru, thier, thir, thorf, thuruh, thár, thárf, thâr, théro, thír, toler, tísêr, tîer
+ - *scripturarum:* scripturarum
+ - *ságen:* dágon, gágen, sagen, sagetun, seggen, sorgen, ságanne, ságe, ságen, ságenti, ságetun, sáment, sûonetágen, uáren, zegángen, óugen
+ - *humerum:* humanum, humeris, humeros, humerum, imperium, uerum
+ - *tér:* dér, férs, mére, pérsi, târ, té, tér, téro, térru, tés, tír, vérs
+ - *geista:* geist, geista, geiste, geistes, gheist, ghelstar, ghelstro, géiste, iúngesta, meista, meistar, teilta, teudisca
+ - *gistréwita:* gistréwita, githréwita, zistrudida
+ - *stûont:* betûot, lastront, nestûont, spûotîg, stont, stuant, stûol, stûonde, stûonden, stûont, tûon
+ - *drénkit:* birenkit, drénk, drénkit, trinkit, wénkit
+ - *euuigon:* brutigomon, eldiron, eruuénoen, euuigon, euuigun, geuuizci, uuizzagon, zuuiuun
+ - *hohisto:* dechisto, herosto, hohista, hohisto, hohistom, hohistôm, hôhestô, miltisto
+ - *rehta:* deota, dráhta, díhta, fehta, nemáhta, redha, rehta, rehtan, réhtaz, zúhta
+ - *ipsum:* iesum, iesus, illum, ipsa, ipsam, ipsum, semetipsum
+ - *posuit:* oportuit, portauit, possit, posuit
+ - *méndenti:* héffenti, kúndentu, mendent, méindati, méndenti, mínnonti, mórnenti
+ - *unzin:* uncih, unreine, unsih, unzan, unzi, unzin, uzzan, únzin, únzite
+ - *suochent:* bézechenet, bézeîchenet, gesuíchen, quotiens, spréchenti, suachent, suochen, suochent, suohhemes
+ - *infancnissa:* infancnissa, infleiscnissa, manniscnissa
+ - *dhurahfaremes:* dhurahfaremes
+ - *uuart:* ruarit, uuanit, uuar, uuara, uuarch, uuard, uuardh, uuari, uuarin, uuart, uuarth, uuartil, uuartét, uuort, uuárd, uuárt, uuârut, uuérlte, uuórte, zuouuarti
+ - *gikérit:* bilémit, gekérit, gibirit, gihorit, gikérit, girrit, gizéinit
+ - *gauuorachtos:* gauuorachtos, gauurchanne
+ - *arfullit:* arfullant, arfullit, arfurpit, eruullint, gifullit, irfúllit, untarfálle
+ - *irmingot:* bringet, firméinit, irmindeot, irmingot, irréinont
+ - *teutonicus:* testimoniis, teutonicus
+ - *quid:* dauid, dugidi, oquid, quhidim, qui, quia, quid, quidem, quidu, quis, quod, quád, quídu
+ - *biscof:* biguol, biscof, biscofa, bíscof, hériscaf
+ - *gihielti:* gihielt, gihielti, gilihnessi, githigini
+ - *megine:* beginen, bezeine, magatine, meghines, megine, múgin, zegîenge
+ - *halb:* calb, halb, hals, halt, hold, huob, hálb, hâlb, úrlub
+ - *tág:* bága, dág, mág, otág, tag, tág
+ - *dinge:* bibrínge, ding, dinge, diske, dánche, díngen, ringe, vinger, énge, érdringe
+ - *uuaz:* huuazs, puaze, touuan, untazs, uuas, uuaz, uuás, uuáz, uuíb, uuîn, uuîs, uúaz, vuoz
+ - *scandalizantur:* scandalizantur
+ - *under:* andar, ander, duoder, eundem, hungere, inder, unde, under, unrehd, unser, uuíder, ánder, únder
+ - *a:* \, a, ab, ac, ad, al, at, ea, ja, p, v, za, í, –
+ - *frénkisga:* frénkisga, frénkisgon, frónisgan
+ - *fro:* fireo, foor, fro, fró, fóre, ofto, pro, íro
+ - *êristboranon:* êristboranon
+ - *gurtun:* garutun, garuuen, geuértun, grâuuên, guaton, guoton, gurtun, lértun, rursus, wortun, wurtun
+ - *neuuéder:* nerrendeo, netuélet, neuuedir, neuuâren, neuuéder, îouueder
+ - *undarquhedene:* undarquhedene
+ - *wísduam:* ríhiduam, wísduam, wísduames, áltduam
+ - *hiu:* dhiu, hau, hin, hio, hiu, hiun, hiéz, hou, thisu, thiu, áhtu
+ - *sconi:* irscínit, scoldi, scoldii, sconan, sconi, scono, sconu, scuonin, scóni, scóno, scôno
+ - *temple:* tempal, tempil, temple, templo, templum, tempore, tempus
+ - *firiuuizzo:* firiuuizzo
+ - *scribent:* scribens, scribent, scribsit, scríban, scríbit, scrîben, scrîbent
+ - *gitruobit:* giruorit, gitruoben, gitruobit
+ - *bigínnen:* begínnent, begínnet, bigangere, bigondun, bigunnenun, bigínnan, bigínne, bigínnen, bigínnent, bigúnnun, irwínnent
+ - *sculi:* celi, cęli, saeculi, scal, scalc, scilti, sciltim, sculdrom, sculi, sculim, sculun, scurim, scál, stulti
+ - *oh:* dodh, doh, ioh, joh, noh, ob, odho, of, oh, om, ouh, oûh, áh, íh
+ - *gúallichi:* gilústlichaz, gúallichi, gúallicho, gûollichi, kûollichên
+ - *giságeti:* gisagetin, giscówoti, giságeta, giságeti, nirsmáhetin
+ - *turtilitubun:* turtilitubun
+ - *arstent:* arstantu, arsten, arstent, artruknent, azstantu, trôstent
+ - *billiu:* alliu, belli, bihuuiu, bilibit, billiu, elliu, hilpit, hiltiu, rebellis, tubiclin, vallit
+ - *contra:* conda, conditoris, contempta, contra, contumax
+ - *mahtun:* ambahtun, brahtun, fastun, gimahhun, mahtun, mariun, martyrunga, miatun, mohtun, sôhtum, úaptun
+ - *nostram:* nostram, nostro, nostrum
+ - *arslahan:* arhapan, arslagan, arslahan, arslahet, arsláhan, varsenkan
+ - *ôtachere:* otachre, otachres, ôtacher, ôtachere, ôtacheren
+ - *êrist:* crist, d'ist, erist, ærist, érist, êrest, êrist, êristen
+ - *biti:* bati, biti, bitis, bitu, brúti, báti, miti, ziti
+ - *nechâme:* necdum, nechâme, nechúmet
+ - *fleiscliihhun:* fleiscliihhun, gheistliihhe
+ - *az:* az, azs, daz, ez, faz, uz, vaz, waz, íz, úz
+ - *fúrthorretun:* furthamftun, fúrthorretun
+ - *lustlihho:* aodlihho, cootlihhe, guotliihhin, lustlihho, uríuntlicho, uuârlihho, ęrnustliihho
+ - *ióh:* dóh, hóhi, irzóh, ióh, ịh, jóh
+ - *naht:* fahs, héht, nah, naht, nahtes, náht, nîeht, nîht, uaht
+ - *uuerkota:* kiuuerkot, unuuerdota, uuerkota
+ - *heilantes:* heilages, heilantes, heimuuartes, hélphantes
+ - *offanliihhost:* offanliihhost
+ - *sacramenta:* sacramenta, sacramentum, sacrificia, sagrament, saluament
+ - *detrihhe:* deotrichhe, detrihhe, tetrarcha, theotrihhe
+ - *ubarhlaupnissi:* ubarhlaupnissi
+ - *íngieng:* gieng, gigienc, inphieng, intfieng, zigiang, íngiang, íngieng, úzgieng
+ - *israhel:* ferahes, israhel, israheles, israhelo
+ - *ritun:* eigun, irbiten, lintun, orietur, prósun, rihtun, rihtungu, rithmus, ritun, râten, ríatun, titulo, titus, árbéiten, éigun
+ - *mîne:* fóne, fône, mine, méze, mîna, mîne, mînemo, sîne
+ - *máchon:* gemáchôt, gimáchon, máchon, máchont, máchôn, míthon, sáchôn
+ - *begóndi:* begónda, begóndi, begóndôn, berandin, bigonda, iugundhi, júgendi
+ - *réini:* béin, cléini, kléini, préiti, regni, reini, réine, réini, réino
+ - *scein:* asckim, asnerin, bischein, nichein, scein, screiph, skein, suuin, zuein
+ - *sundiono:* predigondo, sundiono, sundono, uuunniono
+ - *chioffanodom:* chioffanodom
+ - *thríu:* thriu, thrí, thríu, thrízug, thíu
+ - *houbit:* arloubit, haubide, hortih, houbit, houpit, zíuhit
+ - *érnestlichên:* érnestlichên
+ - *guater:* fater, guate, guater, guotero, gúatemo, muater, muoter, múater, pater, subter, unguatur
+ - *du:* dau, dhu, do, du, duce, dum, duo, dí, díu, dîu, dô, dû, ju, nu, pu, tu, tódu, íu, îu
+ - *ebanchiliih:* ebanchiliih
+ - *tánnân:* dánnân, tannân, tánnan, tánnân, óbenân
+ - *bóuhnenti:* bauhnunga, bouhnenti, bóuhnenti, róuhenti, óbanentig
+ - *uuanta:* huuanda, nahtuuahta, uualtan, uuamba, uuanna, uuanta, uuánda
+ - *allen:* aldun, allem, allen, allên, ellen, nalles, pivallan, willen, wíllen, zellen, zéllen
+ - *sámalicho:* ellianlicho, salidhom, sámalicho, súmeliche
+ - *gótkundlichen:* gótkundlichen
+ - *thanne:* béranne, dhanne, drétanne, thanne, tharbe, tharuze, thánne, wásganne
+ - *fant:* fand, fant, fiant, fánd, fíant, fîent, fîánt, hant, tanit, want
+ - *auar:* accar, auar, audi, auur, avar, fuar, saluar, sauir
+ - *ist:* bist, cist, dist, est, int, ist, iste, ịst, mist, nist, pist, íst
+ - *stuantun:* forstuontun, gistuontun, patiantur, scanktun, stoptun, stuantun, stultus, stunton
+ - *elisabeth:* elisabeth, elysabeth
+ - *natiuitate:* natiuitas, natiuitate, natiuitatem, natiuitatis
+ - *únsera:* unsera, zúasprah, únbera, úngerno, únsera, únstâtemo
+ - *selben:* ferlóren, ioseben, selben, selbes, selbon, selbun, sélben, sélbun, sélbûn
+ - *these:* dhese, dhesses, gasthuse, theist, thesa, these, thesemo, theser, theso, thesses, thíete
+ - *dicitur:* adducatur, cognoscitur, debitum, dicit, dicitur, igitur, nascitur
+ - *chuning:* chundida, chuning, chunno, chárlinga, chúninga, cuning, khuninc, khuninge, kuning, kúning
+ - *folche:* fleische, folche, folches, folcho, folco, folghemes, frôlichív, solihe
+ - *gúati:* gratię, guati, gíangi, gúate, gúati, kúrti, múate, rúamti
+ - *cumque:* cumque, hucusque, itaque, namque, quique, usque, utrorumque
+ - *uuir:* euuic, fuir, uuer, uuic, uuig, uuir, uuiu, uuâr, uuér, uuír, uúib, vuir, vuiru
+ - *drágenti:* drágenti, drúrenti, duáleti, fréwenti, fyrságenti, thíggenti, éregrehti
+ - *ore:* gode, hore, odre, ore, ort, orte
+ - *gotes:* brotes, gebes, godes, gote, goten, gotes, gothi, goumumes, guotes, gótes, gûote, kotes, muotes, métres, toten
+ - *gimeitun:* gicleiptin, gifremitun, gileitos, gimachun, gimeinun, gimeitun, ingileittun
+ - *odhmuodigosto:* odhmuodigosto
+ - *filius:* filii, filio, filium, filius, firleizssi, pilatus, siliquis
+ - *muot:* bluot, coot, guot, muor, muot, muotin, muotti, muozzi, musę, muôt, pluot, tuot
+ - *eo:* ed, edo, ego, en, eo, et, ex, eî, neo, no, to, ío, îo
+ - *dominum:* domino, dominum, dominus, dęmonum, hominem
+ - *inrigannesse:* inrigannesse
+ - *psalmo:* psalmis, psalmo, psalmom
+ - *tô:* tô, tôd, tôis, tôm, tôt, tú
+ - *bithiu:* bidhiu, biiâhin, biquhime, bithiu, bithíu, bliidhnissu, béthu
+ - *gilih:* gelih, gilih, gilícho, gélîh, hilph, kilihaz, súlih, viriho, íagilih, íagiliher
+ - *manifestantur:* manifesta, manifestantes, manifestantur
+ - *gifehan:* gifehan, gifeho, gifehon, gigeban, gihezzan, giwerdan
+ - *déil:* deil, déil, héil, odhil, téil, ędhili
+ - *gommanne:* gommanbarn, gommanne, gotmanno, nemnanne
+ - *fol:* cxl, fal, fiel, fol, folc, fon, phol, uol
+ - *ingagan:* ingagan, ingangan, ingegin, inphangan, kitragan
+ - *chéisere:* chéiser, chéisera, chéisere, chéiseres
+ - *denne:* cunne, denae, denne, denner, dánne, dénne, fénne
+ - *angil:* anafiel, angeli, angelus, anghila, angil, augit, engil, engila, engile, engilo, éngil
+ - *kuani:* chuani, kruagi, kuani, kunnie, kuoni, kúani, kúnni
+ - *chráftelôsemo:* chráftelôsemo
+ - *huldi:* haldih, huldi, huldin, huldî, mundi, uurdi
+ - *sum:* cum, eum, stum, sua, sum, suma, sume, summa, suo, sus, súm
+ - *uuazar:* uuaar, uuazar, uuazaru, uuazzar, uuazzarfaz, uuázer
+ - *uuine:* diuine, uuine, uuise, uuize, uúine, zuêne
+ - *léit-sámên:* léit-sámên, lústsamên, árbéit-sámo
+ - *intrátent:* antuurtenti, interemerunt, inthábetos, intrátent, nintstánte
+ - *rîche:* bruche, reccheo, riche, rîche, rîchen, rîcho
+ - *hęrduom:* hęrduom, hęrduome, nirfuor
+ - *intuot:* inquit, intfloh, inthíhit, intríat, intuot
+ - *boton:* boto, boton, breton, bíten, drútbotono, koron, volon
+ - *reue:* aeque, dróume, hreue, rege, reue, réve
+ - *scheffidhes:* scheffidhes
+ - *beidon:* beatitudine, beidodun, beidon, beidu, beitotun, biidan, isidor, leidhor, petiton
+ - *éino:* dino, eino, gérno, kléino, méino, éin, éine, éino, éinon, éinote, éinêr
+ - *sunna:* quena, quéna, suannan, sunna, suona, suonnan, supra, súnna, unsa
+ - *neuî&lte&gtle:* neuî&lte&gtle
+ - *heizzit:* heimort, heizsit, heizzit, sezzit
+ - *factus:* datus, effectus, factum, factus, natus, sanctus
+ - *herro:* ferro, heligo, heremo, herio, heroro, herro, herron, hydro, hárto
+ - *prinnan:* inprinnant, prindrai, pringent, prinnan, prinnit, proponant, wírkendan
+ - *daga:* bauga, dag, daga, dage, dana, dara, darba, dága, odagan, taga, waga
+ - *impleatur:* deleatur, impleatur, impleretur
+ - *karl:* kal, karl, karle, karlo, karlus, kórn
+ - *mánagfalten:* mánagfalten
+ - *gilegita:* bihúgita, giheftita, gilegita, gilegitaz
+ - *uuordanan:* aruuorpanan, uuordanan
+ - *chúnnen:* bechénnent, chonnem, chúndên, chúnnen, chúnnôn, drúnkanen
+ - *uuet:* huues, ummet, uue, uueo, uues, uuet, uunt, uuîelt, uîel, zuei
+ - *herten:* derien, herten, hirtin, héresten, hêrren, kebórgen, uertríben
+ - *fora:* bifora, fona, fora, forgapi, forlaz, forma, forn, fíara, vora
+ - *aduliscentię:* aduliscentię
+ - *himilzungalon:* himilzungalon
+ - *paris:* cordis, corporis, eiris, pacis, paris, parno, patria, sacris, ídris
+ - *guota:* fulta, gruozta, guota, guotan, guoto, iuxta, óugta
+ - *thíoto:* githíuto, thiot, thráto, thígiti, thíot, thíote, thíoto, átaháfto
+ - *got:* abgot, cot, dot, god, got, gât, tot
+ - *foruuard:* foruuard, féruuórf, uoruuirdu
+ - *gizúngi:* gifúagit, ginúagi, gizungi, gizúngi, nirzígi
+ - *tuo:* néuo, quo, stuol, taoc, tato, tumbo, tuo, tuoe, tuon, tuę, vvuo
+ - *chiboran:* chiboran, chiboranan, chihorant, chihori, chihoric, chiuuorahta, chiuuordan, giboran
+ - *thin:* chind, ewin, odhin, thia, thih, thin, thine, thing, thinu, thio, thiob, thiz, thén, thîn, trink, éhtin
+ - *fateres:* aseres, balderes, bitteres, ceteris, fanueles, fateres, faterlos, fatero, frammordes, fratrem, álteres, ópheres
+ - *cogita:* cogita, cogitavi, hogazta, íogiwar
+ - *béitonti:* beitonti, brutloufti, brútloufti, béitonti, béitota, léitendi
+ - *spráha:* sprah, sprehhan, spráh, spráha, spráhạ, stráza
+ - *zisámane:* fástmuate, kispane, zisamande, zisámane
+ - *un:* guán, hun, nun, uf, un, uns, unz, ut, án, órun, ún
+ - *zeichan:* bezeichene, bézeichinet, iudeischin, zeichan, zeichane, zeihhan, zéichan
+ - *uuillen:* beuuillet, muspille, uuellent, uueriltlihen, uuillen, uuilleon, uuillion, uuillon, uuillun, uuollenti
+ - *fragen:* ferbórgenív, fradre, fragen, frageta, fraghet, framgieng, frammert, frazun, fréwen, fárawun, fólgetôn, fórahten, grauen
+ - *bifangolode:* bifangolode
+ - *stantenti:* arstantanti, stantenti, stántenti
+ - *unsirin:* inslâfin, insprinc, umbiriten, unsirin, únsirin
+ - *maria:* marcii, mareo, marha, maria, marrit, maría
+ - *quimis:* eloquiis, quibus, quimis, quimit
+ - *inde:* ende, ind, inde, indi, inne, iúgende, énde, únde, úndé
+ - *girédinot:* giordinot, girdinota, girédinot, giréisot, giscéidiner
+ - *thionot:* chiendot, thionontị, thionost, thionot, thionota
+ - *gisizzit:* bisizzit, dissipabit, drisiuuit, gibiudist, gipuazzit, gisizzit
+ - *mannis:* annis, annos, imaginis, mancunnes, mannes, mannis, mannum, méremanniu, nemnis
+ - *manage:* magaczogo, mahale, managa, manage, managen, managiu, manago, managu, manake, manege, manegen, mánaga
+ - *carne:* aarones, barno, carcare, carne, carnem, cyrine, warne
+ - *ostar:* blostar, ẹrstarp, lastar, métar, obphar, ostar
+ - *folle:* folke, folkes, folle, félde, wolle, wolles
+ - *chimanacfaldit:* chimanacfaldit
+ - *diuridu:* diubilo, diuridu, giridu, tiurida, zibrichu
+ - *uuirdit:* eruirrit, neuuirdhit, subiecit, uuidarquidit, uuirdhit, uuirdig, uuirdist, uuirdit
+ - *bruoder:* bruoder, bruodher, ubarmuodic
+ - *lihhamun:* libamina, lihhamun, liihhamin, liihhamun, líchamon, líhhamin, lîchamen
+ - *romani:* romana, romani, románi
+ - *wil:* wel, wib, wic, wil, wili, will, win, wio, wól
+ - *rat:* craft, dat, drato, erat, lat, raet, rat, ðat
+ - *din:* bin, dia, die, dien, dih, din, dinc, dink, dinu, dio, disên, diê, diû, ein, zin
+ - *henti:* hehti, henti, hábenti, hætti, hénti, sehenti, wíhenti
+ - *wázare:* nazareth, wáfane, wázare, wázares, wázarfaz
+ - *demonstretur:* demonstrata, demonstretur, monstremus, reconciliaretur
