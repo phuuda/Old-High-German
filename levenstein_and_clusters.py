@@ -1,62 +1,46 @@
 import os
+import re
+import numpy as np
+import sklearn.cluster
+from Levenshtein import distance
 
-path = "/Users/Valeriya/Desktop/workshop/texts/"
-
+path = "Old-High-German-master/ahd-texts/texts/"
 
 def getTexts(path):
     texts = []
     for filename in os.listdir(path):
-        if 'idea' not in filename and '.txt' in filename:
+        if "idea" not in filename and ".txt" in filename:
             with open(path + filename, "r", encoding="utf-8") as f:
                 texts.append(f.read())
     return texts
 
-
-def removeLatineLines(texts):  # тут надо доработать или поменять на удаление по тегу, если теги будут
+def removeTagged(texts):
     new_texts = []
-    stop_words = [" lat.", " p."]  # можно римские цифры ещё регуляркой находить
     for text in texts:
-        new_lines = []
-        for line in text.split("\n"):
-            if not any(stop_word in line for stop_word in stop_words):
-                new_lines.append(line)
-        new_texts.append("\n".join(new_lines))
+        new_text = re.sub("<.+?>.+?</.+?>", "", text)
+        new_texts.append(new_text)
     return (new_texts)
-
 
 def tokenizeTexts(texts):
     tokenized_texts = []
-
-    stop_sybols = [u'№', u'1', u'2', u'3', u'4', u'5', u'6', u'7', u'8', u'9', u'0']
-
-    chars_to_remove = [u'«', u'»', u'!', u'<', u'>', u'?', u',', u'.', u'(', u')', u'[', u']', u'"', u';', u':', u'/',
-                       u'\\']
-    dd = {ord(c): "" for c in chars_to_remove}
-    dd[ord(u"_")] = " "
-
+    stop_sybols = "№1234567890"
     stop_words = ["page", "sentence", "verse"]
-
     for text in texts:
         tokens = []
         for word in text.split():
             if not any(st in word for st in stop_sybols):
-                word = word.translate(dd).lower()
+                word = word.lower()
+                word = re.sub("[\«\»\!<>\?,\.\(\)\[\]\";:\\/]", "", word)
+                word = re.sub("_", " ", word)
                 if len(word) > 0 and word not in stop_words:
                     tokens.append(word)
         tokenized_texts.append(tokens)
-
     return tokenized_texts
 
-
 texts = getTexts(path)
-
-texts = removeLatineLines(texts)
+texts = removeTagged(texts)
 
 tokenized_texts = tokenizeTexts(texts)
-
-import numpy as np
-import sklearn.cluster
-from Levenshtein import distance
 
 tokenized_texts_flat = [item for sublist in tokenized_texts for item in sublist]
 words = list(set(tokenized_texts_flat))
