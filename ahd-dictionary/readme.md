@@ -19,18 +19,14 @@
 
 * <b>definition</b>:</br>
 
-<b>feigi</b>, свн. veige (прил.) <i>обреченный, проклятый, приносящий горе, рнвн. испуганный</i>; нн. feig <i>трусливый</i>; дс. fegi, да. fAE-Ʒe, ди. feigr.</br></br>
+```<b>feigi</b>, свн. veige (прил.) <defin><i>обреченный, проклятый, приносящий горе, рнвн. испуганный</i></defin>; нн. feig <defin><i>трусливый</i></defin>; дс. fegi, да. fAE-Ʒe, ди. feigr.```</br></br>
 
-разные тэги?</br>
-двн. definition</br>
-свн. definition</br>
-нн. definition
 
 * <b>ссылка на другую статью</b>: ```<linked variants="gibur, buan">```см. gibur, buan```</linked>``` -- сделано 
 * <b>POS</b>:			```(...)```
-* <b>source</b>:		```—...—``` -- сделано
-* <b>gender</b>:		```жр, мр, срр``` -- сделано
-* <b>language</b>:		```свн., дс., нн., да., дс., нн., го., ди., a., лат.```
+* <b>source</b>:		```<source>— Нотк.—</source>``` -- сделано
+* <b>gender</b>:		```<gender>жр</gender>, <gender>мр</gender>, <gender>срр</gender>``` -- сделано
+* <b>language</b>:		```<lang>свн.</lang>, <lang>нн.</lang>``` -- сделано
 
 			
 <b>remove ```<p>``` tags</b>
