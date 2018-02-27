@@ -21,10 +21,7 @@
 
 ```<b>feigi</b>, свн. veige (прил.) <defin><i>обреченный, проклятый, приносящий горе, рнвн. испуганный</i></defin>; нн. feig <defin><i>трусливый</i></defin>; дс. fegi, да. fAE-Ʒe, ди. feigr.```</br></br>
 
-* <b>слова из других языков</b>: -- сделано</br>
-```
-<p><heading>alde</heading> <lang>рнвн.</lang> (межд.) <em>прощай</em>; = фр. <lex>adieu</lex>.</p>
-```
+* <b>слова из других языков</b>: -- сделано ```фр. <lex>adieu</lex>.</p>```
 
 * <b>ссылка на другую статью</b>: ```<linked variants="gibur, buan">```см. gibur, buan```</linked>``` -- сделано 
 * <b>POS</b>:			```(...)```
