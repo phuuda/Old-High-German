@@ -10,11 +10,11 @@
 .txt --> .html -- сделано</br>
 убрать случайные дупликаты словарных статей -- сделано</br>
 
-<b>Разметка латинских слов в текстах</b>: -- сделано
+1. <b>Разметка латинских слов в текстах</b>: -- сделано
 * [notker.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/notker.txt), [tatian.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/tatian.txt), [evangelienbuch.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/evangelienbuch.txt)
 * тэг ```<latin>```
 
-<b>add semantic tags</b>:
+2. <b>Add semantic tags</b>:
 * <b>header word(s)</b> -- сделано 
 
 * <b>definition</b>:</br>
