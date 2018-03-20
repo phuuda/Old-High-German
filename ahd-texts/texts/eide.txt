@@ -1,51 +1,50 @@
 Cod. Paris. (Bibl. Nat., Ms. lat.) 9768 p. 12v 
-Ms. page: 12v  
-    Ergo XVI. Kal. Marcii Lodhuuicus et Karolus in ciuitate, quę 
- olim Argentaria uocabatur, nunc autem Strazburg uulgo dicitur, conuenerunt. 
- Et sacramenta, quę subter notata sunt, Lodhuuicus romana, 
- Karolus uero teudisca lingua iurauerunt. Ac sic ante sacramentum circumfusam 
- plebem alter teudisca, alter romana lingua alloquuti sunt. 
-    Lodhuuicus autem, quia maior natu, prior exorsus sic coepit
-"Quotiens 
-Ms. page: 13ra  Lodharius me et hunc fratrem meum
-Cumque 
 
-Cod. Par. lat. 9768, p. 13rb  
- Karolus haec eadem uerba romana lingua perorasset, Lodhuuicus, 
- quoniam maior natu erat, prior haec deinde se seruaturum testatus est. 
+<latin>Ergo</latin> <num>XVI</num>. <latin>Kal</latin>. <latin>Marcii</latin> <latin>Lodhuuicus</latin> <latin>et</latin> <latin>Karolus</latin> <latin>in</latin> <latin>ciuitate</latin>, <latin>quę</latin> <latin>
+olim</latin> <latin>Argentaria</latin> <latin>uocabatur</latin>, <latin>nunc</latin> <latin>autem</latin> <latin>Strazburg</latin> <latin>uulgo</latin> <latin>dicitur</latin>, <latin>conuenerunt</latin>. <latin>
+Et</latin> <latin>sacramenta</latin>, <latin>quę</latin> <latin>subter</latin> <latin>notata</latin> <latin>sunt</latin>, <latin>Lodhuuicus</latin> <latin>romana</latin>, <latin>
+Karolus</latin> <latin>uero</latin> <latin>teudisca</latin> <latin>lingua</latin> <latin>iurauerunt</latin>. <latin>Ac</latin> <latin>sic</latin> <latin>ante</latin> <latin>sacramentum</latin> <latin>circumfusam</latin> <latin>
+plebem</latin> <latin>alter</latin> <latin>teudisca</latin>, <latin>alter</latin> <latin>romana</latin> <latin>lingua</latin> <latin>alloquuti</latin> <latin>sunt</latin>. <latin>
+Lodhuuicus</latin> <latin>autem</latin>, <latin>quia</latin> <latin>maior</latin> <latin>natu</latin>, <latin>prior</latin> <latin>exorsus</latin> <latin>sic</latin> <latin>coepit</latin>
 
-     "Pro deo amur et pro christian poblo et nostro commun saluament, 
-  d'ist di in auant, in quant deus sauir et podir me dunat, si saluarai 
-  eo cist meon fradre Karlo et in aiudha et in cadhuna cosa, si cum 
-  om per dreit son fradra saluar dist, in oquid il mi altresi fazet, et 
-  ab Ludher nul plaid numquam prindrai, qui meon uol cist meon 
-  fradre Karle in damno sit." 
+<latin>"Quotiens</latin> <latin>Lodharius</latin> <latin>me</latin> <latin>et</latin> <latin>unc</latin> <latin>fratrem</latin> <latin>meum</latin>
 
-     Quod cum Lodhuvicus explesset, Karolus teudisca lingua sic 
-  hęc eadem uerba testatus est. 
+[...]
 
-     "In godes minna ind in thes christianes  folches ind unser bedhero gehaltnissi,14
-  fon thesemo dage frammordes, so fram so mir Got geuuizci indi 
-  mahd furgibit, so haldih thesan minan bruodher, soso man mit rehtu 
-  sinan bruodher scal, in thiu thaz er mig sosama duo, indi mit 
-  Ludheren in nohheiniu thing negegango, the minan uuillon imo 
-  ce scadhen uuerdhen." 
+<latin>Cumque</latin> <latin>Karolus</latin> <latin>haec</latin> <latin>eadem</latin> <latin>uerba</latin> <latin>romana</latin> <latin>lingua</latin> <latin>perorasset</latin>, <latin>Lodhuuicus</latin>, <latin>
+quoniam</latin> <latin>maior</latin> <latin>natu</latin> <latin>erat</latin>, <latin>prior</latin> <latin>haec</latin> <latin>deinde</latin> <latin>se</latin> <latin>seruaturum</latin> <latin>testatus</latin> <latin>est</latin>. 
 
-     Sacramentum autem, quod utrorumque populus quique propria 
-  lingua testatus est, romana lingua sic se habet. 
+"<rom>Pro</rom> <rom>deo</rom> <rom>amur</rom> <rom>et</rom> <rom>pro</rom> <rom>christian</rom> <rom>poblo</rom> <rom>et</rom> <rom>nostro</rom> <rom>commun</rom> <rom>saluament</rom>, <rom>
+d'ist</rom> <rom>di</rom> <rom>in</rom> <rom>auant</rom>, <rom>in</rom> <rom>quant</rom> <rom>deus</rom> <rom>sauir</rom> <rom>et</rom> <rom>podir</rom> <rom>me</rom> <rom>dunat</rom>, <rom>si</rom> <rom>saluarai</rom> <rom>
+eo</rom> <rom>cist</rom> <rom>meon</rom> <rom>fradre</rom> <rom>Karlo</rom> <rom>et</rom> <rom>in</rom> <rom>aiudha</rom> <rom>et</rom> <rom>in</rom> <rom>cadhuna</rom> <rom>cosa</rom>, <rom>si</rom> <rom>cum</rom> <rom>
+om</rom> <rom>per</rom> <rom>dreit</rom> <rom>son</rom> <rom>fradra</rom> <rom>saluar</rom> <rom>dist</rom>, <rom>in</rom> <rom>oquid</rom> <rom>il</rom> <rom>mi</rom> <rom>altresi</rom> <rom>fazet</rom>, <rom>et</rom> <rom>
+ab</rom> <rom>Ludher</rom> <rom>nul</rom> <rom>plaid</rom> <rom>numquam</rom> <rom>prindrai</rom>, <rom>qui</rom> <rom>meon</rom> <rom>uol</rom> <rom>cist</rom> <rom>meon</rom> <rom>
+fradre</rom> <rom>Karle</rom> <rom>in</rom> <rom>damno</rom> <rom>sit</rom>."
 
-     "Si Lodhuuigs sagrament, quę son fradre Karlo iurat, conseruat, 
-  et Karlus meos sendra de sua part non los tanit, si io returnar 
-  non l'int pois, ne io ne neuls, cui eo returnar int pois, in nulla aiudha 
-  contra Lodhuuuig nun li iu er." 
+<latin>Quod</latin> <latin>cum</latin> <latin>Lodhuvicus</latin> <latin>explesset</latin>, <latin>Karolus</latin> <latin>teudisca</latin> <latin>lingua</latin> <latin>sic</latin> <latin>
+hęc</latin> <latin>eadem</latin> <latin>uerba</latin> <latin>testatus</latin> <latin>est</latin>.
 
-     Teudisca autem lingua. 
-Cod. Par. lat. 9768, p. 13va  
-Ms. page: 13va  
-     "Oba Karl then eid, then er sinemo bruodher Ludhuuuige 
-  gesuor, geleistit, indi Ludhuuuig min herro, then er imo gesuor, forbrihchit,30 
-  ob ih inan es iruuenden nemag, noh ih noh thero nohhein, 
-  the ih es iruuenden mag, uuidhar Karle imo ce follusti neuuirdhit." 
+"In godes minna ind in thes christianes folches ind unser bedhero gehaltnissi,
+fon thesemo dage frammordes, so fram so mir Got geuuizci indi 
+mahd furgibit, so haldih thesan minan bruodher, soso man mit rehtu 
+sinan bruodher scal, in thiu thaz er mig sosama duo, indi mit 
+Ludheren in nohheiniu thing negegango, the minan uuillon imo 
+ce scadhen uuerdhen." 
 
-Page: S83        Quibus peractis Lodhuuuicus Renotenus per Spiram et Karolus 
-  iuxta Uuasagam per Uuizunburg Uuarmatiam iter direxit.
+<latin>Sacramentum</latin> <latin>autem</latin>, <latin>quod</latin> <latin>utrorumque</latin> <latin>populus</latin> <latin>quique</latin> <latin>propria</latin> <latin>
+lingua</latin> <latin>testatus</latin> <latin>est</latin>, <latin>romana</latin> <latin>lingua</latin> <latin>sic</latin> <latin>se</latin> <latin>habet</latin>.
+
+"<rom>Si</rom> <rom>Lodhuuigs</rom> <rom>sagrament</rom>, <rom>quę</rom> <rom>son</rom> <rom>fradre</rom> <rom>Karlo</rom> <rom>iurat</rom>, <rom>conseruat</rom>, <rom>
+et</rom> <rom>Karlus</rom> <rom>meos</rom> <rom>sendra</rom> <rom>de</rom> <rom>sua</rom> <rom>part</rom> <rom>non</rom> <rom>los</rom> <rom>tanit</rom>, <rom>si</rom> <rom>io</rom> <rom>returnar</rom> <rom>
+non</rom> <rom>l'int</rom> <rom>pois</rom>, <rom>ne</rom> <rom>io</rom> <rom>ne</rom> <rom>neuls</rom>, <rom>cui</rom> <rom>eo</rom> <rom>returnar</rom> <rom>int</rom> <rom>pois</rom>, <rom>in</rom> <rom>nulla</rom> <rom>aiudha</rom> <rom>
+contra</rom> <rom>Lodhuuuig</rom> <rom>nun</rom> <rom>li</rom> <rom>iuer</rom>."
+
+<latin>Teudisca</latin> <latin>autem</latin> <latin>lingua</latin>.
+
+"Oba Karl then eid, then er sinemo bruodher Ludhuuuige 
+gesuor, geleistit, indi Ludhuuuig min herro, then er imo gesuor, forbrihchit,
+ob ih inan es iruuenden nemag, noh ih noh thero nohhein, 
+the ih es iruuenden mag, uuidhar Karle imo ce follusti neuuirdhit." 
+
+<latin>Quibus</latin> <latin>peractis</latin> <latin>Lodhuuuicus</latin> <latin>Renotenus</latin> <latin>per</latin> <latin>Spiram</latin> <latin>et</latin> <latin>Karolus</latin> <latin>
+iuxta</latin> <latin>Uuasagam</latin> <latin>per</latin> <latin>Uuizunburg</latin> <latin>Uuarmatiam</latin> <latin>iter</latin> <latin>direxit</latin>.
