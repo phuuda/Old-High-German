@@ -1,295 +1,295 @@
 <num>I.</num> <latin>CUR</latin> <latin>SCRIPTOR</latin> <latin>HUNC</latin> <latin>LIBRUM</latin> <latin>THEOTISCE</latin> <latin>DICTAVERIT</latin>. 
 
-<verse>Verse: 1</verse>    Was líuto filu in flíze,   \   in managemo ágaleize, 
-<verse>Verse: 2</verse>    sie thaz in scríp gicleiptin,   \   thaz siẹ iro námon breittin; 
-<verse>Verse: 3</verse>    Sie thés in io gilícho   \   flizzun gúallicho, 
-<verse>Verse: 4</verse>    in búachon man giméinti   \   thio iro chúanheiti. 
-<verse>Verse: 5</verse>    Tharána dátun sie ouh thaz dúam:   \   óugdun iro wísduam, 
-<verse>Verse: 6</verse>    óugdun iro cléini   \   in thes tíhtonnes reini. 
-<verse>Verse: 7</verse>    Iz ist ál thuruh nót   \   so kléino girédinot 
-<verse>Verse: 8</verse>    (iz dúnkal eigun fúntan,   \   zisámane gibúntan), 
-<verse>Verse: 9</verse>    Sie ouh in thíu gisagetin,   \   thaz then thio búah nirsmáhetin, 
-<verse>Verse: 10</verse>    joh wól er sih firwésti,   \   then lésan iz gilústi. 
-<verse>Verse: 11</verse>    Zi thiu mág man ouh ginóto   \   mánagero thíoto 
-<verse>Verse: 12</verse>    hiar námon nu gizéllen   \   joh súntar ginénnen. 
-<verse>Verse: 13</verse>    Sar Kríachi joh Románi   \   iz máchont so gizámi, 
-<verse>Verse: 14</verse>    iz máchont sịẹ al girústit,   \   so thíh es wola lústit; 
-<verse>Verse: 15</verse>    Sie máchont iz so réhtaz   \   joh so fílu sléhtaz, 
-<verse>Verse: 16</verse>    iz ist gifúagit al in éin   \   selp so hélphantes béin. 
-<verse>Verse: 17</verse>    Thie dáti man giscríbe:   \   theist mannes lúst zi líbe; 
-<verse>Verse: 18</verse>    nim góuma thera díhta:   \   thaz húrsgit thina dráhta. 
-<verse>Verse: 19</verse>    Ist iz prósun slihti:   \   thaz drénkit thih in ríhti; 
-<verse>Verse: 20</verse>    odo métres kléini:   \   theist góuma filu réini. 
-<verse>Verse: 21</verse>    Sie dúent iz filu súazi,   \   joh mézent sie thie fúazi, 
-<verse>Verse: 22</verse>    thie léngi joh thie kúrti,   \   theiz gilústlichaz wúrti. 
-<verse>Verse: 23</verse>    Éigun sie iz bithénkit,   \   thaz síllaba in ni wénkit, 
-<verse>Verse: 24</verse>    sies álleswio ni rúachent,   \   ni so thie fúazi suachent; 
-<verse>Verse: 25</verse>    Joh állo thio zíti   \   so záltun sie bi nóti; 
-<verse>Verse: 26</verse>    iz mízit ana bága   \   al io súlih waga. 
-<verse>Verse: 27</verse>    Yrfúrbent sie iz réino   \   joh hárto filu kléino, 
-<verse>Verse: 28</verse>    selb so mán thuruh nót   \   sinaz kórn reinot. 
-<verse>Verse: 29</verse>    Ouh selbun búah frono   \   irréinont sie so scóno; 
-<verse>Verse: 30</verse>    thar lisist scóna gilust   \   ána theheiniga ákust. 
-<verse>Verse: 31</verse>    Nu es fílu manno inthíhit,   \   in sína zungun scríbit, 
-<verse>Verse: 32</verse>    joh ílit, er gigáhe,   \   thaz sínaz io gihóhe: 
-<verse>Verse: 33</verse>    Wánana sculun Fránkon   \   éinon thaz biwánkon, 
-<verse>Verse: 34</verse>    ni sie in frénkisgon bigínnen,   \   sie gotes lób singen? 
-<verse>Verse: 35</verse>    Níst si so gisúngan,   \   mit régulu bithuúngan: 
-<verse>Verse: 36</verse>    si hábet thoh thia ríhti   \   in scóneru slíhti. 
-<verse>Verse: 37</verse>    Íli thu zi nóte,   \   theiz scóno thoh gilute, 
-<verse>Verse: 38</verse>    joh gótes wizod thánne   \   tharána scono hélle; 
-<verse>Verse: 39</verse>    Tház tharana sínge,   \   iz scóno man ginenne; 
-<verse>Verse: 40</verse>    in themo firstántnisse   \   wir giháltan sin giwísse; 
-<verse>Verse: 41</verse>    Thaz láz thir wesan súazi:   \   so mézent iz thie fúazi, 
-<verse>Verse: 42</verse>    zít joh thiu régula;   \   so ịst gótes selbes brédiga. 
-<verse>Verse: 43</verse>    Wil thú thes wola dráhton,   \   thu métar wolles áhton, 
-<verse>Verse: 44</verse>    in thína zungun wirken dúam   \   joh sconu vérs wolles dúan: 
-<verse>Verse: 45</verse>    Il io gótes willen   \   állo ziti irfúllen, 
-<verse>Verse: 46</verse>    so scribent gótes thegana   \   in frénkisgon thie regula; 
-<verse>Verse: 47</verse>    In gótes gibotes súazi   \   laz gángan thine fúazi, 
-<verse>Verse: 48</verse>    ni laz thir zít thes ingán:   \   theist sconi férs sar gidán; 
-<verse>Verse: 49</verse>    Díhtọ io thaz zi nóti   \   theso séhs ziti, 
-<verse>Verse: 50</verse>    thaz thú thih so girústes,   \   in theru síbuntun giréstes. 
-<verse>Verse: 51</verse>    Thaz Krístes wort uns ságetun   \   joh drúta sine uns zélitun, 
-<verse>Verse: 52</verse>    bifora lázu ih iz ál,   \   so ịh bi réhtemen scal; 
-<verse>Verse: 53</verse>    Wánta sie iz gisúngun   \   hárto in édilzungun, 
-<verse>Verse: 54</verse>    mit góte iz allaz ríatun,   \   in wérkon ouh gizíartun. 
-<verse>Verse: 55</verse>    Theist súazi joh ouh núzzi   \   inti lérit unsih wízzi, 
-<verse>Verse: 56</verse>    hímilis gimácha,   \   bi thiu ist thaz ánder racha. 
-<verse>Verse: 57</verse>    Ziu sculun Fránkon, so ih quád,   \   zi thiu éinen wesan úngimah, 
-<verse>Verse: 58</verse>    thie líut es wiht ni duáltun,   \   thie wir hiar óba zaltun? 
-<verse>Verse: 59</verse>    Sie sint so sáma chuani,   \   sélb so thie Románi; 
-<verse>Verse: 60</verse>    ni thárf man thaz ouh rédinon,   \   thaz Kríachi in thes giwídaron. 
-<verse>Verse: 61</verse>    Sie éigun in zi núzzi   \   so sámalicho wízzi, 
-<verse>Verse: 62</verse>    in félde joh in wálde   \   so sint sie sáma balde; 
-<verse>Verse: 63</verse>    Ríhiduam ginúagi   \   joh sint ouh fílu kuani, 
-<verse>Verse: 64</verse>    zi wáfane snelle   \   so sínt thie théganạ alle. 
-<verse>Verse: 65</verse>    Sie búent mit gizíugon   \   (joh warun io thes giwón) 
-<verse>Verse: 66</verse>    in gúatemo lánte;   \   bi thíu sint sịẹ únscante. 
-<verse>Verse: 67</verse>    Iz ist fílu feizit   \   (hárto ist iz giwéizit) 
-<verse>Verse: 68</verse>    mit mánagfalten éhtin;   \   níst iz bi unsen fréhtin. 
-<verse>Verse: 69</verse>    Zi núzze grébit man ouh thár   \   ér inti kúphar, 
-<verse>Verse: 70</verse>    joh bi thía meina   \   ísine steina; 
-<verse>Verse: 71</verse>    Ouh thárazua fúagi   \   sílabar ginúagi, 
-<verse>Verse: 72</verse>    joh lésent thar in lánte   \   góld in iro sante. 
-<verse>Verse: 73</verse>    Sie sint fástmuate   \   zi mánagemo guate, 
-<verse>Verse: 74</verse>    zi mánageru núzzi;   \   thaz dúent in iro wízzi. 
-<verse>Verse: 75</verse>    Sie sint fílu redie   \   sih fíanton zirrettinne; 
-<verse>Verse: 76</verse>    ni gidúrrun sies bigínnan,   \   sie éigun sẹ ubarwúnnan. 
-<verse>Verse: 77</verse>    Líut sih in nintfúarit,   \   thaz iro lánt ruarit, 
-<verse>Verse: 78</verse>    ni sie bị íro gúati   \   in thíonon io zi noti; 
-<verse>Verse: 79</verse>    Joh ménnisgon álle,   \   ther sé iz ni untarfálle, 
-<verse>Verse: 80</verse>    (ih weiz, iz gót worahta)   \   al éigun se iro forahta. 
-<verse>Verse: 81</verse>    Nist líut thaz es bigínne,   \   thaz widar ín ringe; 
-<verse>Verse: 82</verse>    in éigun sie iz firméinit,   \   mit wáfanon gizéinit. 
-<verse>Verse: 83</verse>    Sie lértun sịẹ iz mit swérton,   \   nálas mit then wórton, 
-<verse>Verse: 84</verse>    mit spéron filu wásso;   \   bi thiu fórahten sie se nóh so. 
-<verse>Verse: 85</verse>    Ni si thíot thaz thes gidráhte,   \   in thiu iz mit ín fehte, 
-<verse>Verse: 86</verse>    thoh Médị iz sin joh Pérsi,   \   núb in es thiu wírs si. 
-<verse>Verse: 87</verse>    Lás ih iu in alawár   \   in einen búachon (ih weiz wár), 
-<verse>Verse: 88</verse>    sie in síbbu joh in áhtu   \   sin Alexándres slahtu, 
-<verse>Verse: 89</verse>    Ther wórolti so githréwita,   \   mit suértu siạ al gistréwita 
-<verse>Verse: 90</verse>    úntar sinen hánton   \   mit fílu herten bánton; 
-<verse>Verse: 91</verse>    Joh fánd in theru rédinu,   \   tház fon Macedóniu 
-<verse>Verse: 92</verse>    ther líut in gibúrti   \   giscéidiner wúrti. 
-<verse>Verse: 93</verse>    Nist untar ín thaz thúlte,   \   thaz kúning iro wálte, 
-<verse>Verse: 94</verse>    in wórolti nihéine,   \   ni si thíe sie zugun héime; 
-<verse>Verse: 95</verse>    Odo in érdringe   \   ánder thes bigínne 
-<verse>Verse: 96</verse>    in thihéinigemo thíete,   \   thaz ubar síe gibíete. 
-<verse>Verse: 97</verse>    Thes éigun sie io núzzi   \   in snélli joh in wízzi; 
-<verse>Verse: 98</verse>    nị intrátent sie nihéinan,   \   unz sẹ ínan eigun héilan. 
-<verse>Verse: 99</verse>    Er ist gizál ubar ál,   \   io so édilthegan skál, 
-<verse>Verse: 100</verse>    wíser inti kúani;   \   thero éigun sie ío ginúagi. 
-<verse>Verse: 101</verse>    Wéltit er githíuto   \   mánagero líuto, 
-<verse>Verse: 102</verse>    joh zíuhit er se réine   \   selb so síne heime. 
-<verse>Verse: 103</verse>    Ni sínt thie ímo ouh derien,   \   in thiu nan Fránkon werien; 
-<verse>Verse: 104</verse>    thie snélli sine irbiten,   \   thaz síe nan umbiriten. 
-<verse>Verse: 105</verse>    Wanta állaz thaz sies thénkent,   \   sie ịz al mit góte wirkent; 
-<verse>Verse: 106</verse>    ni dúent sies wíht in noti   \   ána sin girati. 
-<verse>Verse: 107</verse>    Sie sint gótes worto   \   flízig filu hárto, 
-<verse>Verse: 108</verse>    tház sie thaz gilérnen,   \   thaz in thia búah zellen; 
-<verse>Verse: 109</verse>    Tház sie thes bigínnen,   \   iz úzana gisíngen, 
-<verse>Verse: 110</verse>    joh síe iz ouh irfúllen   \   mit míhilemo wíllen. -- 
-<verse>Verse: 111</verse>    Gidán ist es nu rédina,   \   thaz sie sint gúate thegana, 
-<verse>Verse: 112</verse>    ouh góte thionontị álle   \   joh wísduames folle. 
-<verse>Verse: 113</verse>    Nu will ih scríban unser héil,   \   evangéliono deil, 
-<verse>Verse: 114</verse>    so wír nu hiar bigúnnun,   \   in frénkisga zungun; 
-<verse>Verse: 115</verse>    Thaz síe ni wesen éino   \   thes selben ádeilo, 
-<verse>Verse: 116</verse>    ni man in íro gizungi   \   Kristes lób sungi; 
-<verse>Verse: 117</verse>    Joh er ouh íro worto   \   gilóbot werde hárto, 
-<verse>Verse: 118</verse>    ther sie zímo holeta,   \   zi gilóubon sinen ládota. 
-<verse>Verse: 119</verse>    Ist ther in íro lante   \   iz álleswio nintstánte, 
-<verse>Verse: 120</verse>    in ánder gizúngi   \   firnéman iz ni kúnni: 
-<verse>Verse: 121</verse>    Hiar hor er ío zi gúate,   \   waz gót imo gibíete, 
-<verse>Verse: 122</verse>    thaz wír imo hiar gisúngun   \   in frénkisga zúngun. 
-<verse>Verse: 123</verse>    Nu fréwen sih es álle,   \   so wer so wóla wolle, 
-<verse>Verse: 124</verse>    joh so wér si hold in múate   \   Fránkono thíote, 
-<verse>Verse: 125</verse>    Thaz wir Kríste sungun   \   in únsera zungun, 
-<verse>Verse: 126</verse>    joh wír ouh thaz gilébetun,   \   in frénkisgon nan lóbotun!
+<nontext>Verse: 1</nontext>    Was líuto filu in flíze,   \   in managemo ágaleize, 
+<nontext>Verse: 2</nontext>    sie thaz in scríp gicleiptin,   \   thaz siẹ iro námon breittin; 
+<nontext>Verse: 3</nontext>    Sie thés in io gilícho   \   flizzun gúallicho, 
+<nontext>Verse: 4</nontext>    in búachon man giméinti   \   thio iro chúanheiti. 
+<nontext>Verse: 5</nontext>    Tharána dátun sie ouh thaz dúam:   \   óugdun iro wísduam, 
+<nontext>Verse: 6</nontext>    óugdun iro cléini   \   in thes tíhtonnes reini. 
+<nontext>Verse: 7</nontext>    Iz ist ál thuruh nót   \   so kléino girédinot 
+<nontext>Verse: 8</nontext>    (iz dúnkal eigun fúntan,   \   zisámane gibúntan), 
+<nontext>Verse: 9</nontext>    Sie ouh in thíu gisagetin,   \   thaz then thio búah nirsmáhetin, 
+<nontext>Verse: 10</nontext>    joh wól er sih firwésti,   \   then lésan iz gilústi. 
+<nontext>Verse: 11</nontext>    Zi thiu mág man ouh ginóto   \   mánagero thíoto 
+<nontext>Verse: 12</nontext>    hiar námon nu gizéllen   \   joh súntar ginénnen. 
+<nontext>Verse: 13</nontext>    Sar Kríachi joh Románi   \   iz máchont so gizámi, 
+<nontext>Verse: 14</nontext>    iz máchont sịẹ al girústit,   \   so thíh es wola lústit; 
+<nontext>Verse: 15</nontext>    Sie máchont iz so réhtaz   \   joh so fílu sléhtaz, 
+<nontext>Verse: 16</nontext>    iz ist gifúagit al in éin   \   selp so hélphantes béin. 
+<nontext>Verse: 17</nontext>    Thie dáti man giscríbe:   \   theist mannes lúst zi líbe; 
+<nontext>Verse: 18</nontext>    nim góuma thera díhta:   \   thaz húrsgit thina dráhta. 
+<nontext>Verse: 19</nontext>    Ist iz prósun slihti:   \   thaz drénkit thih in ríhti; 
+<nontext>Verse: 20</nontext>    odo métres kléini:   \   theist góuma filu réini. 
+<nontext>Verse: 21</nontext>    Sie dúent iz filu súazi,   \   joh mézent sie thie fúazi, 
+<nontext>Verse: 22</nontext>    thie léngi joh thie kúrti,   \   theiz gilústlichaz wúrti. 
+<nontext>Verse: 23</nontext>    Éigun sie iz bithénkit,   \   thaz síllaba in ni wénkit, 
+<nontext>Verse: 24</nontext>    sies álleswio ni rúachent,   \   ni so thie fúazi suachent; 
+<nontext>Verse: 25</nontext>    Joh állo thio zíti   \   so záltun sie bi nóti; 
+<nontext>Verse: 26</nontext>    iz mízit ana bága   \   al io súlih waga. 
+<nontext>Verse: 27</nontext>    Yrfúrbent sie iz réino   \   joh hárto filu kléino, 
+<nontext>Verse: 28</nontext>    selb so mán thuruh nót   \   sinaz kórn reinot. 
+<nontext>Verse: 29</nontext>    Ouh selbun búah frono   \   irréinont sie so scóno; 
+<nontext>Verse: 30</nontext>    thar lisist scóna gilust   \   ána theheiniga ákust. 
+<nontext>Verse: 31</nontext>    Nu es fílu manno inthíhit,   \   in sína zungun scríbit, 
+<nontext>Verse: 32</nontext>    joh ílit, er gigáhe,   \   thaz sínaz io gihóhe: 
+<nontext>Verse: 33</nontext>    Wánana sculun Fránkon   \   éinon thaz biwánkon, 
+<nontext>Verse: 34</nontext>    ni sie in frénkisgon bigínnen,   \   sie gotes lób singen? 
+<nontext>Verse: 35</nontext>    Níst si so gisúngan,   \   mit régulu bithuúngan: 
+<nontext>Verse: 36</nontext>    si hábet thoh thia ríhti   \   in scóneru slíhti. 
+<nontext>Verse: 37</nontext>    Íli thu zi nóte,   \   theiz scóno thoh gilute, 
+<nontext>Verse: 38</nontext>    joh gótes wizod thánne   \   tharána scono hélle; 
+<nontext>Verse: 39</nontext>    Tház tharana sínge,   \   iz scóno man ginenne; 
+<nontext>Verse: 40</nontext>    in themo firstántnisse   \   wir giháltan sin giwísse; 
+<nontext>Verse: 41</nontext>    Thaz láz thir wesan súazi:   \   so mézent iz thie fúazi, 
+<nontext>Verse: 42</nontext>    zít joh thiu régula;   \   so ịst gótes selbes brédiga. 
+<nontext>Verse: 43</nontext>    Wil thú thes wola dráhton,   \   thu métar wolles áhton, 
+<nontext>Verse: 44</nontext>    in thína zungun wirken dúam   \   joh sconu vérs wolles dúan: 
+<nontext>Verse: 45</nontext>    Il io gótes willen   \   állo ziti irfúllen, 
+<nontext>Verse: 46</nontext>    so scribent gótes thegana   \   in frénkisgon thie regula; 
+<nontext>Verse: 47</nontext>    In gótes gibotes súazi   \   laz gángan thine fúazi, 
+<nontext>Verse: 48</nontext>    ni laz thir zít thes ingán:   \   theist sconi férs sar gidán; 
+<nontext>Verse: 49</nontext>    Díhtọ io thaz zi nóti   \   theso séhs ziti, 
+<nontext>Verse: 50</nontext>    thaz thú thih so girústes,   \   in theru síbuntun giréstes. 
+<nontext>Verse: 51</nontext>    Thaz Krístes wort uns ságetun   \   joh drúta sine uns zélitun, 
+<nontext>Verse: 52</nontext>    bifora lázu ih iz ál,   \   so ịh bi réhtemen scal; 
+<nontext>Verse: 53</nontext>    Wánta sie iz gisúngun   \   hárto in édilzungun, 
+<nontext>Verse: 54</nontext>    mit góte iz allaz ríatun,   \   in wérkon ouh gizíartun. 
+<nontext>Verse: 55</nontext>    Theist súazi joh ouh núzzi   \   inti lérit unsih wízzi, 
+<nontext>Verse: 56</nontext>    hímilis gimácha,   \   bi thiu ist thaz ánder racha. 
+<nontext>Verse: 57</nontext>    Ziu sculun Fránkon, so ih quád,   \   zi thiu éinen wesan úngimah, 
+<nontext>Verse: 58</nontext>    thie líut es wiht ni duáltun,   \   thie wir hiar óba zaltun? 
+<nontext>Verse: 59</nontext>    Sie sint so sáma chuani,   \   sélb so thie Románi; 
+<nontext>Verse: 60</nontext>    ni thárf man thaz ouh rédinon,   \   thaz Kríachi in thes giwídaron. 
+<nontext>Verse: 61</nontext>    Sie éigun in zi núzzi   \   so sámalicho wízzi, 
+<nontext>Verse: 62</nontext>    in félde joh in wálde   \   so sint sie sáma balde; 
+<nontext>Verse: 63</nontext>    Ríhiduam ginúagi   \   joh sint ouh fílu kuani, 
+<nontext>Verse: 64</nontext>    zi wáfane snelle   \   so sínt thie théganạ alle. 
+<nontext>Verse: 65</nontext>    Sie búent mit gizíugon   \   (joh warun io thes giwón) 
+<nontext>Verse: 66</nontext>    in gúatemo lánte;   \   bi thíu sint sịẹ únscante. 
+<nontext>Verse: 67</nontext>    Iz ist fílu feizit   \   (hárto ist iz giwéizit) 
+<nontext>Verse: 68</nontext>    mit mánagfalten éhtin;   \   níst iz bi unsen fréhtin. 
+<nontext>Verse: 69</nontext>    Zi núzze grébit man ouh thár   \   ér inti kúphar, 
+<nontext>Verse: 70</nontext>    joh bi thía meina   \   ísine steina; 
+<nontext>Verse: 71</nontext>    Ouh thárazua fúagi   \   sílabar ginúagi, 
+<nontext>Verse: 72</nontext>    joh lésent thar in lánte   \   góld in iro sante. 
+<nontext>Verse: 73</nontext>    Sie sint fástmuate   \   zi mánagemo guate, 
+<nontext>Verse: 74</nontext>    zi mánageru núzzi;   \   thaz dúent in iro wízzi. 
+<nontext>Verse: 75</nontext>    Sie sint fílu redie   \   sih fíanton zirrettinne; 
+<nontext>Verse: 76</nontext>    ni gidúrrun sies bigínnan,   \   sie éigun sẹ ubarwúnnan. 
+<nontext>Verse: 77</nontext>    Líut sih in nintfúarit,   \   thaz iro lánt ruarit, 
+<nontext>Verse: 78</nontext>    ni sie bị íro gúati   \   in thíonon io zi noti; 
+<nontext>Verse: 79</nontext>    Joh ménnisgon álle,   \   ther sé iz ni untarfálle, 
+<nontext>Verse: 80</nontext>    (ih weiz, iz gót worahta)   \   al éigun se iro forahta. 
+<nontext>Verse: 81</nontext>    Nist líut thaz es bigínne,   \   thaz widar ín ringe; 
+<nontext>Verse: 82</nontext>    in éigun sie iz firméinit,   \   mit wáfanon gizéinit. 
+<nontext>Verse: 83</nontext>    Sie lértun sịẹ iz mit swérton,   \   nálas mit then wórton, 
+<nontext>Verse: 84</nontext>    mit spéron filu wásso;   \   bi thiu fórahten sie se nóh so. 
+<nontext>Verse: 85</nontext>    Ni si thíot thaz thes gidráhte,   \   in thiu iz mit ín fehte, 
+<nontext>Verse: 86</nontext>    thoh Médị iz sin joh Pérsi,   \   núb in es thiu wírs si. 
+<nontext>Verse: 87</nontext>    Lás ih iu in alawár   \   in einen búachon (ih weiz wár), 
+<nontext>Verse: 88</nontext>    sie in síbbu joh in áhtu   \   sin Alexándres slahtu, 
+<nontext>Verse: 89</nontext>    Ther wórolti so githréwita,   \   mit suértu siạ al gistréwita 
+<nontext>Verse: 90</nontext>    úntar sinen hánton   \   mit fílu herten bánton; 
+<nontext>Verse: 91</nontext>    Joh fánd in theru rédinu,   \   tház fon Macedóniu 
+<nontext>Verse: 92</nontext>    ther líut in gibúrti   \   giscéidiner wúrti. 
+<nontext>Verse: 93</nontext>    Nist untar ín thaz thúlte,   \   thaz kúning iro wálte, 
+<nontext>Verse: 94</nontext>    in wórolti nihéine,   \   ni si thíe sie zugun héime; 
+<nontext>Verse: 95</nontext>    Odo in érdringe   \   ánder thes bigínne 
+<nontext>Verse: 96</nontext>    in thihéinigemo thíete,   \   thaz ubar síe gibíete. 
+<nontext>Verse: 97</nontext>    Thes éigun sie io núzzi   \   in snélli joh in wízzi; 
+<nontext>Verse: 98</nontext>    nị intrátent sie nihéinan,   \   unz sẹ ínan eigun héilan. 
+<nontext>Verse: 99</nontext>    Er ist gizál ubar ál,   \   io so édilthegan skál, 
+<nontext>Verse: 100</nontext>    wíser inti kúani;   \   thero éigun sie ío ginúagi. 
+<nontext>Verse: 101</nontext>    Wéltit er githíuto   \   mánagero líuto, 
+<nontext>Verse: 102</nontext>    joh zíuhit er se réine   \   selb so síne heime. 
+<nontext>Verse: 103</nontext>    Ni sínt thie ímo ouh derien,   \   in thiu nan Fránkon werien; 
+<nontext>Verse: 104</nontext>    thie snélli sine irbiten,   \   thaz síe nan umbiriten. 
+<nontext>Verse: 105</nontext>    Wanta állaz thaz sies thénkent,   \   sie ịz al mit góte wirkent; 
+<nontext>Verse: 106</nontext>    ni dúent sies wíht in noti   \   ána sin girati. 
+<nontext>Verse: 107</nontext>    Sie sint gótes worto   \   flízig filu hárto, 
+<nontext>Verse: 108</nontext>    tház sie thaz gilérnen,   \   thaz in thia búah zellen; 
+<nontext>Verse: 109</nontext>    Tház sie thes bigínnen,   \   iz úzana gisíngen, 
+<nontext>Verse: 110</nontext>    joh síe iz ouh irfúllen   \   mit míhilemo wíllen. -- 
+<nontext>Verse: 111</nontext>    Gidán ist es nu rédina,   \   thaz sie sint gúate thegana, 
+<nontext>Verse: 112</nontext>    ouh góte thionontị álle   \   joh wísduames folle. 
+<nontext>Verse: 113</nontext>    Nu will ih scríban unser héil,   \   evangéliono deil, 
+<nontext>Verse: 114</nontext>    so wír nu hiar bigúnnun,   \   in frénkisga zungun; 
+<nontext>Verse: 115</nontext>    Thaz síe ni wesen éino   \   thes selben ádeilo, 
+<nontext>Verse: 116</nontext>    ni man in íro gizungi   \   Kristes lób sungi; 
+<nontext>Verse: 117</nontext>    Joh er ouh íro worto   \   gilóbot werde hárto, 
+<nontext>Verse: 118</nontext>    ther sie zímo holeta,   \   zi gilóubon sinen ládota. 
+<nontext>Verse: 119</nontext>    Ist ther in íro lante   \   iz álleswio nintstánte, 
+<nontext>Verse: 120</nontext>    in ánder gizúngi   \   firnéman iz ni kúnni: 
+<nontext>Verse: 121</nontext>    Hiar hor er ío zi gúate,   \   waz gót imo gibíete, 
+<nontext>Verse: 122</nontext>    thaz wír imo hiar gisúngun   \   in frénkisga zúngun. 
+<nontext>Verse: 123</nontext>    Nu fréwen sih es álle,   \   so wer so wóla wolle, 
+<nontext>Verse: 124</nontext>    joh so wér si hold in múate   \   Fránkono thíote, 
+<nontext>Verse: 125</nontext>    Thaz wir Kríste sungun   \   in únsera zungun, 
+<nontext>Verse: 126</nontext>    joh wír ouh thaz gilébetun,   \   in frénkisgon nan lóbotun!
 
 <num>IV.</num> <latin>FUIT</latin> <latin>IN</latin> <latin>DIEBUS</latin> <latin>HERODIS</latin> <latin>REGIS</latin> <latin>SACERDOS</latin> <latin>NOMINE</latin> <latin>ZACHARIAS</latin>. 
 
-<verse>Verse: 1</verse>    In dágon eines kúninges,   \   joh hárto firdánes, 
-<verse>Verse: 2</verse>    was ein éwarto,   \   zi gúate sị er ginánto! 
-<verse>Verse: 3</verse>    Zi híun er mo quénun las,   \   so thár in lante sítu was; 
-<verse>Verse: 4</verse>    wanta warun thánne   \   thie biscofa éinkunne. 
-<verse>Verse: 5</verse>    Wárun siu béthu   \   góte filu drúdu 
-<verse>Verse: 6</verse>    joh íogiwar sínaz   \   gibot fúllentaz, 
-<verse>Verse: 7</verse>    Wízzod sínan   \   ío wírkendan 
-<verse>Verse: 8</verse>    joh reht mínnonti   \   ana méindati. 
-<verse>Verse: 9</verse>    Únbera was thiu quéna   \   kindo zéizero; 
-<verse>Verse: 10</verse>    so wárun se unzan élti   \   thaz lib léitendi. 
-<verse>Verse: 11</verse>    Zít ward tho giréisot,   \   thaz er gíangi furi gót; 
-<verse>Verse: 12</verse>    ópphoron er scólta   \   bi thie síno súnta, 
-<verse>Verse: 13</verse>    Zi góte ouh thanne thígiti,   \   thaz er giscówoti 
-<verse>Verse: 14</verse>    then líut ther gináda   \   tharuze béitota. 
-<verse>Verse: 15</verse>    Thiu hériscaf thes líutes   \   stuant thar úzwertes, 
-<verse>Verse: 16</verse>    sie wárun iro hénti   \   zi gote héffenti; 
-<verse>Verse: 17</verse>    Sinerọ éregrehti   \   warun thíggenti, 
-<verse>Verse: 18</verse>    tház er ouh gihórti   \   thaz ther éwarto bati. 
-<verse>Verse: 19</verse>    Íngiang er tho skíoro,   \   góldo garo zíero, 
-<verse>Verse: 20</verse>    mit zínseru in hénti   \   thaz hus róuhenti. 
-<verse>Verse: 21</verse>    Thár gisah er stántan   \   gótes boton sconan; 
-<verse>Verse: 22</verse>    zi thes álteres zésawi   \   was sin béitonti. 
-<verse>Verse: 23</verse>    Híntarquam tho hárto   \   ther gotes éwarto, 
-<verse>Verse: 24</verse>    intríat er thaz gisíuni,   \   want íz was filu scóni; 
-<verse>Verse: 25</verse>    Er irbléicheta,   \   joh fárawun er wánta. 
-<verse>Verse: 26</verse>    ther éngil imo zúasprah,   \   tho er nan scíuhen gisah: 
-<verse>Verse: 27</verse>    "Ni fórihti thir, bíscof,   \   ih ni térru thir drof; 
-<verse>Verse: 28</verse>    wanta ist gibét thinaz   \   fon drúhtine gihórtaz, 
-<verse>Verse: 29</verse>    Joh áltquéna thinu   \   ist thir kínd berantu, 
-<verse>Verse: 30</verse>    sun filu zéizan;   \   Johánnes scal er héizan. 
-<verse>Verse: 31</verse>    Er ist thir hérzblidi,   \   ouh wírdit filu mári; 
-<verse>Verse: 32</verse>    ist síneru gibúrti   \   sih worolt méndenti. 
-<verse>Verse: 33</verse>    Gúati so ịst er hóher   \   joh góte filu líuber; 
-<verse>Verse: 34</verse>    íst er ouh fon júgendi   \   filu fástenti. 
-<verse>Verse: 35</verse>    Ni fúllit er sih wínes,   \   ouh lídes nihéines; 
-<verse>Verse: 36</verse>    fon réve thera múater   \   so íst er io giwíhter; 
-<verse>Verse: 37</verse>    Fílu thesses líutes   \   in abuh írrentes 
-<verse>Verse: 38</verse>    ist er zi gótes henti   \   wola chérenti. 
-<verse>Verse: 39</verse>    Er férit fora Kríste   \   mit sélbomo géiste, 
-<verse>Verse: 40</verse>    then ju in áltworolti   \   Helías was ouh hábenti. 
-<verse>Verse: 41</verse>    Gikérit er scóno   \   thaz herza fórdrono 
-<verse>Verse: 42</verse>    in kindọ ínbrusti   \   zi gotes ánalusti; 
-<verse>Verse: 43</verse>    Thie ungilóubige   \   gekérit er zi líbe, 
-<verse>Verse: 44</verse>    thie dúmbon duat ouh thánne   \   zi wísemo manne; 
-<verse>Verse: 45</verse>    Zi thíu thaz er gigárawe   \   thie liuti wírdige, 
-<verse>Verse: 46</verse>    selb drúhtine   \   stráza zi drétanne." 
-<verse>Verse: 47</verse>    Thó sprah ther bíscof,   \   harto fóraht er mo thoh, 
-<verse>Verse: 48</verse>    ni was imọ ánawani   \   thaz árunti sconi: 
-<verse>Verse: 49</verse>    "Chúmig bin ih járo   \   ju filu mánegero, 
-<verse>Verse: 50</verse>    joh thiu quéna minu   \   ist kinthes úrminnu. 
-<verse>Verse: 51</verse>    Uns sint kínd zi béranne   \   ju dága furifárane; 
-<verse>Verse: 52</verse>    áltduam suáraz   \   duit uns iz úrwanaz. 
-<verse>Verse: 53</verse>    Iz hábet ubarstígana   \   in uns júgund mánaga, 
-<verse>Verse: 54</verse>    ni gíbit uns thaz álta,   \   thaz thiu júgund scolta. 
-<verse>Verse: 55</verse>    Wio meg ih wízzan thanne,   \   thaz uns kínd werde? 
-<verse>Verse: 56</verse>    int uns íst iz in ther élti   \   binóman unz in énti." 
-<verse>Verse: 57</verse>    Sprah ther gótes boto thó,   \   ni thoh irbólgono, 
-<verse>Verse: 58</verse>    was er mo avur ságenti   \   thaz selba árunti: 
-<verse>Verse: 59</verse>    "Íh bin ein thero síbino,   \   thero gotes drútbotono, 
-<verse>Verse: 60</verse>    thie ịn síneru gisíhti   \   sint io stántenti, 
-<verse>Verse: 61</verse>    Thi er héra in worolt séntit,   \   thann er kráft wirkit, 
-<verse>Verse: 62</verse>    joh wérk filu hébigu   \   ist iru kúndentu. 
-<verse>Verse: 63</verse>    Sánt er mih fon hímile,   \   thiz sélba thir zi ságanne, 
-<verse>Verse: 64</verse>    fon hímilriches hóhi,   \   theih thir iz wís dati. 
-<verse>Verse: 65</verse>    Nu thu thaz árunti   \   so hárto bist formónanti: 
-<verse>Verse: 66</verse>    nu wird thu stúmmer sar,   \   unz thú ịz gisehes álawar; 
-<verse>Verse: 67</verse>    Wanta thu ábahonti   \   bist gotes árunti, 
-<verse>Verse: 68</verse>    int óuh thaz bist fyrságenti   \   thaz sélbo got ist gébenti. 
-<verse>Verse: 69</verse>    Iz wírdit thoh irfúllit,   \   so got gisázta thia zít; 
-<verse>Verse: 70</verse>    unz tház tharbe hárto   \   thero thínero wórto." 
-<verse>Verse: 71</verse>    Úze stuant ther líut thar,   \   wás sie filu wúntar, 
-<verse>Verse: 72</verse>    ziu ther éwarto   \   duáleti so hárto; 
-<verse>Verse: 73</verse>    Gibetes ántfangi   \   fon góte ni giságeti, 
-<verse>Verse: 74</verse>    mit síneru hénti   \   sie ouh wari wíhenti. 
-<verse>Verse: 75</verse>    Gíang er uz tho spáto,   \   híntarqueman thráto; 
-<verse>Verse: 76</verse>    theru spráhạ er bilémit was,   \   want er gilóubig ni was. 
-<verse>Verse: 77</verse>    Tho was er bóuhnenti,   \   nales spréchenti, 
-<verse>Verse: 78</verse>    thaz ménigi thes líutes   \   fuari héimortes. 
-<verse>Verse: 79</verse>    Sie fuarun drúrenti   \   joh ouh tho áhtonti, 
-<verse>Verse: 80</verse>    want er wíht zin ni spráh,   \   thaz er thar wúntar gisah. 
-<verse>Verse: 81</verse>    Thes ópheres zíti   \   warun éntonti, 
-<verse>Verse: 82</verse>    fúar er ouh tho sáre   \   zi sínemo gifúare. 
-<verse>Verse: 83</verse>    Thera spráha mórnenti,   \   thes wánes was sih fréwenti; 
-<verse>Verse: 84</verse>    gilóubt er filu spáto,   \   bi thiu béitota er so nóto. 
-<verse>Verse: 85</verse>    Thiu quena sun was drágenti   \   jóh sih harto scámenti, 
-<verse>Verse: 86</verse>    tház siu scolta in élti   \   mit kínde gan in hénti.
+<nontext>Verse: 1</nontext>    In dágon eines kúninges,   \   joh hárto firdánes, 
+<nontext>Verse: 2</nontext>    was ein éwarto,   \   zi gúate sị er ginánto! 
+<nontext>Verse: 3</nontext>    Zi híun er mo quénun las,   \   so thár in lante sítu was; 
+<nontext>Verse: 4</nontext>    wanta warun thánne   \   thie biscofa éinkunne. 
+<nontext>Verse: 5</nontext>    Wárun siu béthu   \   góte filu drúdu 
+<nontext>Verse: 6</nontext>    joh íogiwar sínaz   \   gibot fúllentaz, 
+<nontext>Verse: 7</nontext>    Wízzod sínan   \   ío wírkendan 
+<nontext>Verse: 8</nontext>    joh reht mínnonti   \   ana méindati. 
+<nontext>Verse: 9</nontext>    Únbera was thiu quéna   \   kindo zéizero; 
+<nontext>Verse: 10</nontext>    so wárun se unzan élti   \   thaz lib léitendi. 
+<nontext>Verse: 11</nontext>    Zít ward tho giréisot,   \   thaz er gíangi furi gót; 
+<nontext>Verse: 12</nontext>    ópphoron er scólta   \   bi thie síno súnta, 
+<nontext>Verse: 13</nontext>    Zi góte ouh thanne thígiti,   \   thaz er giscówoti 
+<nontext>Verse: 14</nontext>    then líut ther gináda   \   tharuze béitota. 
+<nontext>Verse: 15</nontext>    Thiu hériscaf thes líutes   \   stuant thar úzwertes, 
+<nontext>Verse: 16</nontext>    sie wárun iro hénti   \   zi gote héffenti; 
+<nontext>Verse: 17</nontext>    Sinerọ éregrehti   \   warun thíggenti, 
+<nontext>Verse: 18</nontext>    tház er ouh gihórti   \   thaz ther éwarto bati. 
+<nontext>Verse: 19</nontext>    Íngiang er tho skíoro,   \   góldo garo zíero, 
+<nontext>Verse: 20</nontext>    mit zínseru in hénti   \   thaz hus róuhenti. 
+<nontext>Verse: 21</nontext>    Thár gisah er stántan   \   gótes boton sconan; 
+<nontext>Verse: 22</nontext>    zi thes álteres zésawi   \   was sin béitonti. 
+<nontext>Verse: 23</nontext>    Híntarquam tho hárto   \   ther gotes éwarto, 
+<nontext>Verse: 24</nontext>    intríat er thaz gisíuni,   \   want íz was filu scóni; 
+<nontext>Verse: 25</nontext>    Er irbléicheta,   \   joh fárawun er wánta. 
+<nontext>Verse: 26</nontext>    ther éngil imo zúasprah,   \   tho er nan scíuhen gisah: 
+<nontext>Verse: 27</nontext>    "Ni fórihti thir, bíscof,   \   ih ni térru thir drof; 
+<nontext>Verse: 28</nontext>    wanta ist gibét thinaz   \   fon drúhtine gihórtaz, 
+<nontext>Verse: 29</nontext>    Joh áltquéna thinu   \   ist thir kínd berantu, 
+<nontext>Verse: 30</nontext>    sun filu zéizan;   \   Johánnes scal er héizan. 
+<nontext>Verse: 31</nontext>    Er ist thir hérzblidi,   \   ouh wírdit filu mári; 
+<nontext>Verse: 32</nontext>    ist síneru gibúrti   \   sih worolt méndenti. 
+<nontext>Verse: 33</nontext>    Gúati so ịst er hóher   \   joh góte filu líuber; 
+<nontext>Verse: 34</nontext>    íst er ouh fon júgendi   \   filu fástenti. 
+<nontext>Verse: 35</nontext>    Ni fúllit er sih wínes,   \   ouh lídes nihéines; 
+<nontext>Verse: 36</nontext>    fon réve thera múater   \   so íst er io giwíhter; 
+<nontext>Verse: 37</nontext>    Fílu thesses líutes   \   in abuh írrentes 
+<nontext>Verse: 38</nontext>    ist er zi gótes henti   \   wola chérenti. 
+<nontext>Verse: 39</nontext>    Er férit fora Kríste   \   mit sélbomo géiste, 
+<nontext>Verse: 40</nontext>    then ju in áltworolti   \   Helías was ouh hábenti. 
+<nontext>Verse: 41</nontext>    Gikérit er scóno   \   thaz herza fórdrono 
+<nontext>Verse: 42</nontext>    in kindọ ínbrusti   \   zi gotes ánalusti; 
+<nontext>Verse: 43</nontext>    Thie ungilóubige   \   gekérit er zi líbe, 
+<nontext>Verse: 44</nontext>    thie dúmbon duat ouh thánne   \   zi wísemo manne; 
+<nontext>Verse: 45</nontext>    Zi thíu thaz er gigárawe   \   thie liuti wírdige, 
+<nontext>Verse: 46</nontext>    selb drúhtine   \   stráza zi drétanne." 
+<nontext>Verse: 47</nontext>    Thó sprah ther bíscof,   \   harto fóraht er mo thoh, 
+<nontext>Verse: 48</nontext>    ni was imọ ánawani   \   thaz árunti sconi: 
+<nontext>Verse: 49</nontext>    "Chúmig bin ih járo   \   ju filu mánegero, 
+<nontext>Verse: 50</nontext>    joh thiu quéna minu   \   ist kinthes úrminnu. 
+<nontext>Verse: 51</nontext>    Uns sint kínd zi béranne   \   ju dága furifárane; 
+<nontext>Verse: 52</nontext>    áltduam suáraz   \   duit uns iz úrwanaz. 
+<nontext>Verse: 53</nontext>    Iz hábet ubarstígana   \   in uns júgund mánaga, 
+<nontext>Verse: 54</nontext>    ni gíbit uns thaz álta,   \   thaz thiu júgund scolta. 
+<nontext>Verse: 55</nontext>    Wio meg ih wízzan thanne,   \   thaz uns kínd werde? 
+<nontext>Verse: 56</nontext>    int uns íst iz in ther élti   \   binóman unz in énti." 
+<nontext>Verse: 57</nontext>    Sprah ther gótes boto thó,   \   ni thoh irbólgono, 
+<nontext>Verse: 58</nontext>    was er mo avur ságenti   \   thaz selba árunti: 
+<nontext>Verse: 59</nontext>    "Íh bin ein thero síbino,   \   thero gotes drútbotono, 
+<nontext>Verse: 60</nontext>    thie ịn síneru gisíhti   \   sint io stántenti, 
+<nontext>Verse: 61</nontext>    Thi er héra in worolt séntit,   \   thann er kráft wirkit, 
+<nontext>Verse: 62</nontext>    joh wérk filu hébigu   \   ist iru kúndentu. 
+<nontext>Verse: 63</nontext>    Sánt er mih fon hímile,   \   thiz sélba thir zi ságanne, 
+<nontext>Verse: 64</nontext>    fon hímilriches hóhi,   \   theih thir iz wís dati. 
+<nontext>Verse: 65</nontext>    Nu thu thaz árunti   \   so hárto bist formónanti: 
+<nontext>Verse: 66</nontext>    nu wird thu stúmmer sar,   \   unz thú ịz gisehes álawar; 
+<nontext>Verse: 67</nontext>    Wanta thu ábahonti   \   bist gotes árunti, 
+<nontext>Verse: 68</nontext>    int óuh thaz bist fyrságenti   \   thaz sélbo got ist gébenti. 
+<nontext>Verse: 69</nontext>    Iz wírdit thoh irfúllit,   \   so got gisázta thia zít; 
+<nontext>Verse: 70</nontext>    unz tház tharbe hárto   \   thero thínero wórto." 
+<nontext>Verse: 71</nontext>    Úze stuant ther líut thar,   \   wás sie filu wúntar, 
+<nontext>Verse: 72</nontext>    ziu ther éwarto   \   duáleti so hárto; 
+<nontext>Verse: 73</nontext>    Gibetes ántfangi   \   fon góte ni giságeti, 
+<nontext>Verse: 74</nontext>    mit síneru hénti   \   sie ouh wari wíhenti. 
+<nontext>Verse: 75</nontext>    Gíang er uz tho spáto,   \   híntarqueman thráto; 
+<nontext>Verse: 76</nontext>    theru spráhạ er bilémit was,   \   want er gilóubig ni was. 
+<nontext>Verse: 77</nontext>    Tho was er bóuhnenti,   \   nales spréchenti, 
+<nontext>Verse: 78</nontext>    thaz ménigi thes líutes   \   fuari héimortes. 
+<nontext>Verse: 79</nontext>    Sie fuarun drúrenti   \   joh ouh tho áhtonti, 
+<nontext>Verse: 80</nontext>    want er wíht zin ni spráh,   \   thaz er thar wúntar gisah. 
+<nontext>Verse: 81</nontext>    Thes ópheres zíti   \   warun éntonti, 
+<nontext>Verse: 82</nontext>    fúar er ouh tho sáre   \   zi sínemo gifúare. 
+<nontext>Verse: 83</nontext>    Thera spráha mórnenti,   \   thes wánes was sih fréwenti; 
+<nontext>Verse: 84</nontext>    gilóubt er filu spáto,   \   bi thiu béitota er so nóto. 
+<nontext>Verse: 85</nontext>    Thiu quena sun was drágenti   \   jóh sih harto scámenti, 
+<nontext>Verse: 86</nontext>    tház siu scolta in élti   \   mit kínde gan in hénti.
 
 <num>XXI.</num> <latin>DE</latin> <latin>MORTE</latin> <latin>HERODIS</latin>. 
 
-<verse>Verse: 1</verse>    Tho ẹrstarp ther kúning Heród,   \   joh hina fúarta inan tod, 
-<verse>Verse: 2</verse>    mit tódu er dága fulta   \   ther io in ábuh wolta: 
-<verse>Verse: 3</verse>    Thar Jóseph was in lánte   \   hina in élilente, 
-<verse>Verse: 4</verse>    quam ímbot imo in dróume,   \   er thes kíndes wola góume; 
-<verse>Verse: 5</verse>    Thia múater ouh bibrínge   \   zị iro héiminge, 
-<verse>Verse: 6</verse>    joh wison héimortes   \   éiganes lantes. 
-<verse>Verse: 7</verse>    "Ni si thír es", quad er, "nót,   \   ther iro fíant ther ist dót; 
-<verse>Verse: 8</verse>    bi thiu ili io thés sinthes   \   thes iro héiminges." 
-<verse>Verse: 9</verse>    Fuar er sár heimort,   \   firnam ouh gérno thiu wort; 
-<verse>Verse: 10</verse>    sáman mit ther múater   \   so fuar ther sún guater. 
-<verse>Verse: 11</verse>    Tho gihort er mári,   \   thar ander kúning wari; 
-<verse>Verse: 12</verse>    joh ouh théro worto   \   híntarquam er hárto. 
-<verse>Verse: 13</verse>    Kért er tho in fíara   \   in eina búrg ziara; 
-<verse>Verse: 14</verse>    thaz kínd er scóno thar irzóh   \   joh then fíanton intfloh. 
-<verse>Verse: 15</verse>    Wúahs er filu zíoro   \   in wízzin wola skíoro, 
-<verse>Verse: 16</verse>    in wísduam theh io thánne   \   mit góte joh mit mánne.
+<nontext>Verse: 1</nontext>    Tho ẹrstarp ther kúning Heród,   \   joh hina fúarta inan tod, 
+<nontext>Verse: 2</nontext>    mit tódu er dága fulta   \   ther io in ábuh wolta: 
+<nontext>Verse: 3</nontext>    Thar Jóseph was in lánte   \   hina in élilente, 
+<nontext>Verse: 4</nontext>    quam ímbot imo in dróume,   \   er thes kíndes wola góume; 
+<nontext>Verse: 5</nontext>    Thia múater ouh bibrínge   \   zị iro héiminge, 
+<nontext>Verse: 6</nontext>    joh wison héimortes   \   éiganes lantes. 
+<nontext>Verse: 7</nontext>    "Ni si thír es", quad er, "nót,   \   ther iro fíant ther ist dót; 
+<nontext>Verse: 8</nontext>    bi thiu ili io thés sinthes   \   thes iro héiminges." 
+<nontext>Verse: 9</nontext>    Fuar er sár heimort,   \   firnam ouh gérno thiu wort; 
+<nontext>Verse: 10</nontext>    sáman mit ther múater   \   so fuar ther sún guater. 
+<nontext>Verse: 11</nontext>    Tho gihort er mári,   \   thar ander kúning wari; 
+<nontext>Verse: 12</nontext>    joh ouh théro worto   \   híntarquam er hárto. 
+<nontext>Verse: 13</nontext>    Kért er tho in fíara   \   in eina búrg ziara; 
+<nontext>Verse: 14</nontext>    thaz kínd er scóno thar irzóh   \   joh then fíanton intfloh. 
+<nontext>Verse: 15</nontext>    Wúahs er filu zíoro   \   in wízzin wola skíoro, 
+<nontext>Verse: 16</nontext>    in wísduam theh io thánne   \   mit góte joh mit mánne.
 
 <num>VIII.</num> <latin>NUPTIAE</latin> <latin>FACTAE</latin> <latin>SUNT</latin>. 
 
-<verse>Verse: 1</verse>    After thíu in war mín   \   so mohtun thrí daga sin; 
-<verse>Verse: 2</verse>    so thes thrítten dages sár   \   so wárd thiz thaz ih ságen thar. 
-<verse>Verse: 3</verse>    Úaptun thar thie líuti   \   eino brútloufti 
-<verse>Verse: 4</verse>    themo wírte joh theru brúti   \   in sáligeru zíti. 
-<verse>Verse: 5</verse>    Ni ward io in wóroltzitin,   \   thiu zisámane gihítin, 
-<verse>Verse: 6</verse>    thaz sih gésto guati   \   súlihhero rúamti. 
-<verse>Verse: 7</verse>    Thar was Kríst guater   \   joh sélba ouh thiu sin múater, 
-<verse>Verse: 8</verse>    óuh man thara ládota   \   thie júngoron thier tho hábeta. 
-<verse>Verse: 9</verse>    Thiu hiun wárun filu fró,   \   giwerdan móhta siu es thó: 
-<verse>Verse: 10</verse>    sie habetun thár selbon Kríst,   \   ther álles blides fúrista ist. 
-<verse>Verse: 11</verse>    Thó zigiang thes lídes   \   joh brást in thar thes wínes; 
-<verse>Verse: 12</verse>    María thaz bihúgita,   \   joh Kríste si iz giságeta. 
-<verse>Verse: 13</verse>    "Ih scal thir ságen, min kínd,   \   then híon filu hébig thing, 
-<verse>Verse: 14</verse>    theih míthon ouh nu wésta:   \   thes wínes ist in brésta." 
-<verse>Verse: 15</verse>    Spráh tho zi iru súazo   \   ther ira sún zeizo 
-<verse>Verse: 16</verse>    sconen wórton ubar ál,   \   so sun zi múater scal: 
-<verse>Verse: 17</verse>    "Wib, ih zéllu thir ein,   \   waz drífit sulih zi úns zuein? 
-<verse>Verse: 18</verse>    ni quam min zít noh so frám,   \   theih óuge weih fon thír nam. 
-<verse>Verse: 19</verse>    Sar so tház irscínit,   \   waz mih fon thír rinit, 
-<verse>Verse: 20</verse>    so ist thir állan then dag   \   thaz hérza filu ríuag. 
-<verse>Verse: 21</verse>    Thaz thu zi mír nu quáti   \   inti eina klága es dati, 
-<verse>Verse: 22</verse>    mit gótkundlichen ráchon   \   scal man súlih machon." 
-<verse>Verse: 23</verse>    Thiu muater hórta thaz tho thár;   \   si wéssa thoh in álawar, 
-<verse>Verse: 24</verse>    thaz íru thiu sin gúati   \   nirzígi thes siu báti. 
-<verse>Verse: 25</verse>    Gibót si then sar gáhun   \   then thes lídes sahun, 
-<verse>Verse: 26</verse>    so wás so er in giquáti,   \   iz íagiliher dati. 
-<verse>Verse: 27</verse>    Thar stuantun wázarfaz,   \   so thár in lante sítu was, 
-<verse>Verse: 28</verse>    then mánnon sus iowánne   \   sih zi wásganne. 
-<verse>Verse: 29</verse>    Thaz warun séhs kruagi;   \   zi thíu was thar ginúagi, 
-<verse>Verse: 30</verse>    tho zi thén rachon,   \   thio drúhtin wolta máchon. 
-<verse>Verse: 31</verse>    Thaz méz, wir ofto zéllen   \   joh séxtari iz nénnen -- 
-<verse>Verse: 32</verse>    nam íagilih in redinu   \   thrízug stunton zéhinu 
-<verse>Verse: 33</verse>    Odo zuíro zéhanzug,   \   thes duent búah thar gihúgt; 
-<verse>Verse: 34</verse>    warun stéininu thiu fáz,   \   siu mohtun wéren thes thiu báz. 
-<verse>Verse: 35</verse>    Gibót tho selbo drúhtin,   \   siu wázares irfúltin; 
-<verse>Verse: 36</verse>    thaz dátun sie giwurtig   \   unz in óbanentig. 
-<verse>Verse: 37</verse>    Tho quád er thaz sie skánctin,   \   zi themo héresten sih wántin, 
-<verse>Verse: 38</verse>    ther thero thríosezzo   \   was fúristo gimazzo. 
-<verse>Verse: 39</verse>    Drank ér tho so nan lústa;   \   er wíht es thoh ni wésta, 
-<verse>Verse: 40</verse>    es wiht ni quám imo ouh in wán,   \   theiz was fon wázare gidan. 
-<verse>Verse: 41</verse>    Thie mán thoh thie thar scanktun,   \   iz fílu wola irkántun, 
-<verse>Verse: 42</verse>    theiz wazzar lútaraz was,   \   tho sie fúltun thiu vaz. 
-<verse>Verse: 43</verse>    Then wírt er thara ládota   \   joh zi ímo nan gihólota, 
-<verse>Verse: 44</verse>    sih harto wúntorota sin   \   bi then frónisgan win. 
-<verse>Verse: 45</verse>    "Ságe mir nu, friunt mín,   \   wio dati só bi then win, 
-<verse>Verse: 46</verse>    thih sus es nu inthábetos,   \   so lángo nan gispáratos? 
-<verse>Verse: 47</verse>    Gíbit giwelih mánno,   \   ther fríunta frewit gérno, 
-<verse>Verse: 48</verse>    (ih weiz, thu es ínnana bist)   \   then fúriston io sar zi érist. 
-<verse>Verse: 49</verse>    So thie mán sih thanne irwínnent   \   joh drúnkanen bigínnent: 
-<verse>Verse: 50</verse>    so skenkit állan then dag   \   súlih sos iz wésan mag. 
-<verse>Verse: 51</verse>    Ja gispáratos avur thú   \   then guaton wín unz in nú! 
-<verse>Verse: 52</verse>    ih scál thir ouh nu ráchon,   \   ni drénk ih thes gimáchon." 
-<verse>Verse: 53</verse>    Thiz zéichan deta druhtin Kríst   \   ménnisgon zi érist, 
-<verse>Verse: 54</verse>    síd er hera in wórolt quam   \   joh mannes líchamon nam. 
-<verse>Verse: 55</verse>    Er óugta sina kráft thar   \   joh sina gúallichi, theist wár; 
-<verse>Verse: 56</verse>    tho gilóubtun ekordị éine   \   thie júngoron síne.
+<nontext>Verse: 1</nontext>    After thíu in war mín   \   so mohtun thrí daga sin; 
+<nontext>Verse: 2</nontext>    so thes thrítten dages sár   \   so wárd thiz thaz ih ságen thar. 
+<nontext>Verse: 3</nontext>    Úaptun thar thie líuti   \   eino brútloufti 
+<nontext>Verse: 4</nontext>    themo wírte joh theru brúti   \   in sáligeru zíti. 
+<nontext>Verse: 5</nontext>    Ni ward io in wóroltzitin,   \   thiu zisámane gihítin, 
+<nontext>Verse: 6</nontext>    thaz sih gésto guati   \   súlihhero rúamti. 
+<nontext>Verse: 7</nontext>    Thar was Kríst guater   \   joh sélba ouh thiu sin múater, 
+<nontext>Verse: 8</nontext>    óuh man thara ládota   \   thie júngoron thier tho hábeta. 
+<nontext>Verse: 9</nontext>    Thiu hiun wárun filu fró,   \   giwerdan móhta siu es thó: 
+<nontext>Verse: 10</nontext>    sie habetun thár selbon Kríst,   \   ther álles blides fúrista ist. 
+<nontext>Verse: 11</nontext>    Thó zigiang thes lídes   \   joh brást in thar thes wínes; 
+<nontext>Verse: 12</nontext>    María thaz bihúgita,   \   joh Kríste si iz giságeta. 
+<nontext>Verse: 13</nontext>    "Ih scal thir ságen, min kínd,   \   then híon filu hébig thing, 
+<nontext>Verse: 14</nontext>    theih míthon ouh nu wésta:   \   thes wínes ist in brésta." 
+<nontext>Verse: 15</nontext>    Spráh tho zi iru súazo   \   ther ira sún zeizo 
+<nontext>Verse: 16</nontext>    sconen wórton ubar ál,   \   so sun zi múater scal: 
+<nontext>Verse: 17</nontext>    "Wib, ih zéllu thir ein,   \   waz drífit sulih zi úns zuein? 
+<nontext>Verse: 18</nontext>    ni quam min zít noh so frám,   \   theih óuge weih fon thír nam. 
+<nontext>Verse: 19</nontext>    Sar so tház irscínit,   \   waz mih fon thír rinit, 
+<nontext>Verse: 20</nontext>    so ist thir állan then dag   \   thaz hérza filu ríuag. 
+<nontext>Verse: 21</nontext>    Thaz thu zi mír nu quáti   \   inti eina klága es dati, 
+<nontext>Verse: 22</nontext>    mit gótkundlichen ráchon   \   scal man súlih machon." 
+<nontext>Verse: 23</nontext>    Thiu muater hórta thaz tho thár;   \   si wéssa thoh in álawar, 
+<nontext>Verse: 24</nontext>    thaz íru thiu sin gúati   \   nirzígi thes siu báti. 
+<nontext>Verse: 25</nontext>    Gibót si then sar gáhun   \   then thes lídes sahun, 
+<nontext>Verse: 26</nontext>    so wás so er in giquáti,   \   iz íagiliher dati. 
+<nontext>Verse: 27</nontext>    Thar stuantun wázarfaz,   \   so thár in lante sítu was, 
+<nontext>Verse: 28</nontext>    then mánnon sus iowánne   \   sih zi wásganne. 
+<nontext>Verse: 29</nontext>    Thaz warun séhs kruagi;   \   zi thíu was thar ginúagi, 
+<nontext>Verse: 30</nontext>    tho zi thén rachon,   \   thio drúhtin wolta máchon. 
+<nontext>Verse: 31</nontext>    Thaz méz, wir ofto zéllen   \   joh séxtari iz nénnen -- 
+<nontext>Verse: 32</nontext>    nam íagilih in redinu   \   thrízug stunton zéhinu 
+<nontext>Verse: 33</nontext>    Odo zuíro zéhanzug,   \   thes duent búah thar gihúgt; 
+<nontext>Verse: 34</nontext>    warun stéininu thiu fáz,   \   siu mohtun wéren thes thiu báz. 
+<nontext>Verse: 35</nontext>    Gibót tho selbo drúhtin,   \   siu wázares irfúltin; 
+<nontext>Verse: 36</nontext>    thaz dátun sie giwurtig   \   unz in óbanentig. 
+<nontext>Verse: 37</nontext>    Tho quád er thaz sie skánctin,   \   zi themo héresten sih wántin, 
+<nontext>Verse: 38</nontext>    ther thero thríosezzo   \   was fúristo gimazzo. 
+<nontext>Verse: 39</nontext>    Drank ér tho so nan lústa;   \   er wíht es thoh ni wésta, 
+<nontext>Verse: 40</nontext>    es wiht ni quám imo ouh in wán,   \   theiz was fon wázare gidan. 
+<nontext>Verse: 41</nontext>    Thie mán thoh thie thar scanktun,   \   iz fílu wola irkántun, 
+<nontext>Verse: 42</nontext>    theiz wazzar lútaraz was,   \   tho sie fúltun thiu vaz. 
+<nontext>Verse: 43</nontext>    Then wírt er thara ládota   \   joh zi ímo nan gihólota, 
+<nontext>Verse: 44</nontext>    sih harto wúntorota sin   \   bi then frónisgan win. 
+<nontext>Verse: 45</nontext>    "Ságe mir nu, friunt mín,   \   wio dati só bi then win, 
+<nontext>Verse: 46</nontext>    thih sus es nu inthábetos,   \   so lángo nan gispáratos? 
+<nontext>Verse: 47</nontext>    Gíbit giwelih mánno,   \   ther fríunta frewit gérno, 
+<nontext>Verse: 48</nontext>    (ih weiz, thu es ínnana bist)   \   then fúriston io sar zi érist. 
+<nontext>Verse: 49</nontext>    So thie mán sih thanne irwínnent   \   joh drúnkanen bigínnent: 
+<nontext>Verse: 50</nontext>    so skenkit állan then dag   \   súlih sos iz wésan mag. 
+<nontext>Verse: 51</nontext>    Ja gispáratos avur thú   \   then guaton wín unz in nú! 
+<nontext>Verse: 52</nontext>    ih scál thir ouh nu ráchon,   \   ni drénk ih thes gimáchon." 
+<nontext>Verse: 53</nontext>    Thiz zéichan deta druhtin Kríst   \   ménnisgon zi érist, 
+<nontext>Verse: 54</nontext>    síd er hera in wórolt quam   \   joh mannes líchamon nam. 
+<nontext>Verse: 55</nontext>    Er óugta sina kráft thar   \   joh sina gúallichi, theist wár; 
+<nontext>Verse: 56</nontext>    tho gilóubtun ekordị éine   \   thie júngoron síne.
