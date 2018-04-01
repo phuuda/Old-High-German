@@ -8,10 +8,6 @@ from collections import defaultdict
 
 path = "/Users/Valeriya/Documents/Py/Old-High-German/ahd-texts/texts/"
 
-
-
-
-
 def getTexts(path):
     texts = []
     for filename in os.listdir(path):
@@ -44,7 +40,6 @@ def tokenizeTexts(texts):
     return tokenized_texts
 
 
-
 texts = getTexts(path)
 texts = removeTagged(texts)
 tokenized_texts = tokenizeTexts(texts)
@@ -57,7 +52,6 @@ for txt in dictionary.find_all('strong'):
     tokenized_dict.append(txt.text)
 
 clusters = defaultdict(list)
-
 
 
 for word in tokenized_texts_flat:
