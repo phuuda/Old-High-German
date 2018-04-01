@@ -1,0 +1,5 @@
+tag,meaning,example
+<num>,latin numerals,I.
+<nontext>,служебные пометки,Verse: 1/Ms. page:
+<latin>,latin words,Sanctus
+<rom>,old french words,saluament

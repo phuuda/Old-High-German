@@ -10,21 +10,24 @@
 .txt --> .html -- сделано</br>
 убрать случайные дупликаты словарных статей -- сделано</br>
 
-1. <b>Разметка латинских слов в текстах</b>: -- сделано
-* [notker.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/notker.txt), [tatian.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/tatian.txt), [evangelienbuch.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/evangelienbuch.txt)
-* тэг ```<latin>```
+1. <b>Разметка латинских & старофранцузских слов в текстах</b>: -- сделано
+* [notker.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/notker.txt),</br>
+[tatian.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/tatian.txt),</br>
+[evangelienbuch.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/evangelienbuch.txt),</br>
+[isidor.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/isidor.txt),</br>
+[eide.txt](https://github.com/phuuda/Old-High-German/blob/master/ahd-texts/texts/eide.txt)
+* тэг ```<latin>, <rom>```
 
-2. <b>Add semantic tags</b>:
+2. <b>Add semantic tags</b>: -- сделано
 * <b>header word(s)</b> -- сделано 
 
 * <b>definition</b>:</br>
 
-```<b>feigi</b>, свн. veige (прил.) <defin><i>обреченный, проклятый, приносящий горе, рнвн. испуганный</i></defin>; нн. feig <defin><i>трусливый</i></defin>; дс. fegi, да. fAE-Ʒe, ди. feigr.```</br></br>
+```<b>feigi</b>, свн. veige (прил.) <em>обреченный, проклятый, приносящий горе, рнвн. испуганный</em>; нн. feig <em>трусливый</em>; дс. fegi, да. fAE-Ʒe, ди. feigr.```</br></br>
 
 * <b>слова из других языков</b>: ```фр. <lex>adieu</lex>``` -- сделано
 
 * <b>ссылка на другую статью</b>: ```<linked variants="gibur, buan">```см. gibur, buan```</linked>``` -- сделано 
-* <b>POS</b>:			```(...)```
 * <b>source</b>:		```<source>— Нотк.—</source>``` -- сделано
 * <b>gender</b>:		```<gender>жр</gender>, <gender>мр</gender>, <gender>срр</gender>``` -- сделано
 * <b>language</b>:		```<lang>свн.</lang>, <lang>нн.</lang>``` -- сделано
@@ -36,7 +39,7 @@
 * сокр., ср., см.
 * etc.
 
-# Задачи для теоретиков:
+# Задачи для теоретиков: -- сделано (more or less)
 
 <b>Разбить на осмысленные группы те пометки, которые встречаются в скобках</b> -->
 Ссылка на таблицу со всеми данными: https://docs.google.com/spreadsheets/d/1j33LH0bfYYutZvy5y7268e4jOhSJafDp4PCbS2Q3pAY/edit#gid=0
